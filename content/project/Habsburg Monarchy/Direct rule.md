@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Understanding Indirect Rule in the Habsburg Monarchy"
-subtitle: "Measurement, Causes, and Effects of Varying State  Reach"
+subtitle: "Measurement, Causes, and Effects of Varying State Reach"
 summary: "My master's thesis topic as well as the focus of my PhD, this project entails capturing variation in the degree the Habsburg monarchie managed to rule their subject populations in a direct fashion."
 authors: []
 tags: []
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Nice picture of schooling compliance rates in 1880."
   focal_point: "smart"
   preview_only: false
 

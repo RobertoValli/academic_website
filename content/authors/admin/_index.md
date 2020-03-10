@@ -1,55 +1,53 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+avatar_image: pic1.jpg
+bio: My research interests include electoral and comparative politics, as well as state formation and political violence.
 btn:
 - label: Download Resume
-  url: https://sourcethemes.com/academic/docs/install/
+  url: https://polybox.ethz.ch/index.php/s/kgxsqU0tSEyDPAW
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Political Science
+    institution: ETH Zurich
+    year: 2020
+  - course: MA in Comparative and International Studies
+    institution: ETH Zurich
+    year: 2018--
+  - course: BA in International Affairs
+    institution: University of St. Gallen
+    year: 2018
+email: "roberto.valli@icr.gess.ethz.ch"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Electoral politics
+- State formation
+- Nationalism
+- Political violence
+name: Roberto Valli
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Roberto Valli
+  url: "https://icr.ethz.ch/people/"
+role: 
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/RobertoValli
+# - icon: #witter
+#   icon_pack: fab
+#   link: 
+# - icon: google-scholar
+#   icon_pack: #ai
+#   link: 
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roberto Valli is a graduate student at ETH Zurich.
 
-![reviews](../../img/certifacates.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.

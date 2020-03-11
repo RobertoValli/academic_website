@@ -5,7 +5,7 @@ avatar_image: pic1.jpg
 bio: My research interests include electoral and comparative politics, as well as state formation and political violence.
 btn:
 - label: Download Resume
-  url: https://polybox.ethz.ch/index.php/s/kgxsqU0tSEyDPAW
+  url: files/valli_cv.pdf
 display_education: false
 education:
   courses:
@@ -49,6 +49,6 @@ user_groups:
 ---
 
 Roberto Valli is a graduate student at ETH Zurich. He did his undergraduate studies at the University of St. Gallen and is now completing his graduate education at the Center for Comparative and International Studies at ETH Zurich. After successful completion of the master's thesis he will enrol into the CIS's phd program under the supervision of Lars-Erik Cederman.
-His research interests lie in the study of state and nation-formation, nationalist politics and party politics.
+His research interests lie in the study of **state and nation-formation**,  **nationalist politics** and  **party politics**.
 
 

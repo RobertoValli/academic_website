@@ -20,7 +20,7 @@ publication: Working paper
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "[Source.](https://www.affaritaliani.it/static/upl2018_restyle/matt/0004/matteo-salvini-ape-grande.jpg)"
   focal_point: ""
   preview_only: false
 

@@ -20,8 +20,8 @@ abstract: How does state policy affect interconfessional violence? This paper pr
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "[Source.](https://www.opinionnigeria.com/wp-content/uploads/2016/03/sharia-law-e1457585542477.jpg)"
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).

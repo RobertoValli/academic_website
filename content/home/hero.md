@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "pic1.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,4 +42,4 @@ hero_media = "pic1.jpg"
   label = "Contact me"
 
 +++
-## My name is **Roberto Valli** and I'm a graduate student specializing in political science.
+## My name is **Roberto Valli** and I'm a graduate student in political science specializing on state formation and political violence.

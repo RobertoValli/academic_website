@@ -7,6 +7,7 @@
 # Title of your site
 title = "Roberto Valli"
 
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL = "https://robertovalli.netlify.com/"
@@ -65,3 +66,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+# Define parameters
+[params]
+  email = "roberto.valli@icr.gess.ethz.ch"
+  address = ""
+  office_hours = ""
+  phone = ""
+  telegram = ""
+  

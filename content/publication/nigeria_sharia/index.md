@@ -11,7 +11,7 @@ categories: []
 date: 2019-09-11T08:34:14+01:00
 lastmod: 2020-03-11T08:34:14+01:00
 featured: true
-draft: true
+draft: false
 publication_types: []
 publication: Working paper
 abstract: How does state policy affect interconfessional violence? This paper provides a theoretical model linking ethnonationalist state policy to violence between religiously-identified non-state actors, specifying causal mechanisms for how it make both groups whose status is upgraded and those who lose from the policy more prone to violence. The proposition is tested with a difference-in-differences design on the case of 1999 Sharia reforms in northern Nigeria. Estimates show, first, that the frequency of interconfessional increases in Sharia states relative to the control group. Second, different specifications provide evidence of an anticipation effect, which suggests that ethnonationalist policies affect interconfessional violence primarily through their symbolic meaning.

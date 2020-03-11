@@ -27,7 +27,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example conference paper
+title: An example conference paper 
 ---
 
 {{% alert note %}}

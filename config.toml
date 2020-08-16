@@ -70,7 +70,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # Define parameters
 [params]
   email = "roberto.valli@icr.gess.ethz.ch"
-  address = ""
+  address = "IFW building \n Haldeneggsteig, 48001 Zurich"
   office_hours = ""
   phone = ""
   telegram = ""

@@ -31,3 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+### Working Paper.
+
+The literature on riots has linked the occurrence of ethnic violence to the agitation of politicians. This paper goes beyond the electoral incentives that lead to the organization of riots, and investigates how nationalist state policy aggrieves ethnic minorities.

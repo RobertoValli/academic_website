@@ -10,7 +10,7 @@ tags: [nationalism, political violence]
 categories: [ethnic politics, political violence]
 date: 2019-09-11T08:34:14+01:00
 lastmod: 2020-03-11T08:34:14+01:00
-featured: true
+featured: false
 draft: false
 publication_types: [3]
 publication: Working paper

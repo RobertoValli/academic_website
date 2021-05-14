@@ -26,8 +26,8 @@ interests:
 - Political violence
 name: Roberto Valli
 organizations:
-- name: Roberto Valli
-  url: "https://icr.ethz.ch/people/"
+- name: About me
+  url: "https://icr.ethz.ch/people/valli/"
 role: 
 social:
 - icon: envelope
@@ -48,7 +48,8 @@ user_groups:
 - Visitors
 ---
 
-Roberto Valli is a graduate student at ETH Zurich. He did his undergraduate studies at the University of St. Gallen and is now completing his graduate education at the Center for Comparative and International Studies at ETH Zurich. After completing his master's thesis he enrolled into the CIS's phd program under the supervision of Lars-Erik Cederman.
-His research interests lie in the study of **state and nation-formation**, as well as **nationalist**, **ethnic** and **party politics**.
+I am a graduate student at ETH Zurich. I'm enrolled in the [Center for Comparative and International Studies'](https://cis.ethz.ch/Studying_CIS/PhDCIS.html) phd program under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I posses an M.A. degree in Comparative and International Studies from ETH Zurich and a B.A. in International Affairs from the University of St. Gallen.
+
+My research interests cover broadly speaking both causes and consequences of the politicization of ethno-cultural traits, particularly in relation to state policy. I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
 
 

@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Empires, Nation-States, and Ethnic Favoritism"
-subtitle: "How nationalism affects railway construction in Austria-Hungary, 1855-1901"
-summary: ""
+subtitle: "How nationalism affected railway construction in Austria-Hungary, 1855-1901"
+summary: "MA thesis. I show how different approaches to ethnic diversity and nationalist claims in Austrian and Hungarian territories resulted in much stronger ethnic favoritism in Hungary, as measured by railway construction."
 authors: 
 - admin
 tags: [ethnic politics, state formation, ethnic favoritism]
@@ -21,7 +21,7 @@ publication: Master's thesis
 image:
   placement: 1
   caption: "Source: Own estimates."
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).

@@ -75,3 +75,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   phone = ""
   telegram = ""
   
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

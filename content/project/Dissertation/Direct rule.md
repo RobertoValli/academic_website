@@ -1,30 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Unequal Burden of Globalization"
-subtitle: "How Immigration Affects Political Selection"
-summary: ""
+title: "The Origins of Nationalism"
+subtitle: "Empirical investigations of modern nationalist politics"
+summary: "PhD project. In my dissertation I study with modern computational tools and new disaggregated data the emergence of modern nationalism politics in Europe."
 authors: 
-- Massimo Troncone
 - admin
-tags: [party politics, immigration]
-categories: []
-date: 2020-03-11T08:23:17+01:00
-lastmod: 2020-03-11T08:23:17+01:00
+tags: [state formation, direct rule, nationalism, ethnic politics]
+categories: [7]
+date: 2020-03-10T23:28:44+01:00
+lastmod: 2020-03-10T23:28:44+01:00
 featured: false
-draft: true
-links: null
-projects: null
-publication: Working paper
-publication_short: 
-publication_types: [3]
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
+image: 
+  caption: Schooling compliance rates in Austria-Hungary, 1880.
+  focal_point: "smart"
   preview_only: false
 
 # Projects (optional).
@@ -34,3 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+

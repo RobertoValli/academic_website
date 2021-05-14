@@ -48,7 +48,7 @@ user_groups:
 - Visitors
 ---
 
-Roberto Valli is a graduate student at ETH Zurich. He did his undergraduate studies at the University of St. Gallen and is now completing his graduate education at the Center for Comparative and International Studies at ETH Zurich. After successful completion of the master's thesis he will enrol into the CIS's phd program under the supervision of Lars-Erik Cederman.
-His research interests lie in the study of **state and nation-formation**,  **nationalist politics** and  **party politics**.
+Roberto Valli is a graduate student at ETH Zurich. He did his undergraduate studies at the University of St. Gallen and is now completing his graduate education at the Center for Comparative and International Studies at ETH Zurich. After completing his master's thesis he enrolled into the CIS's phd program under the supervision of Lars-Erik Cederman.
+His research interests lie in the study of **state and nation-formation**, as well as **nationalist**, **ethnic** and **party politics**.
 
 

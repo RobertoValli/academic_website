@@ -6,27 +6,27 @@ bio: My research interests include electoral and comparative politics, as well a
 btn:
 - label: Download Resume
   url: files/valli_cv.pdf
-display_education: false
+display_education: true
 education:
   courses:
   - course: PhD in Political Science
     institution: ETH Zurich
-    year: 2020
+    year: 2020--
   - course: MA in Comparative and International Studies
     institution: ETH Zurich
-    year: 2018--
+    year: 2020
   - course: BA in International Affairs
     institution: University of St. Gallen
     year: 2018
 email: "roberto.valli@icr.gess.ethz.ch"
 interests:
-- Electoral politics
 - State formation
-- Nationalism
+- Nationalist and ethnic politics
 - Political violence
+- Electoral politics
 name: Roberto Valli
 organizations:
-- name: About me
+- name: My institutional profile
   url: "https://icr.ethz.ch/people/valli/"
 role: 
 social:

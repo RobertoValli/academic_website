@@ -9,13 +9,13 @@ btn:
 display_education: true
 education:
   courses:
-  - course: PhD in Political Science
+  - course: PhD Political Science
     institution: ETH Zurich
-    year: 2020--
-  - course: MA in Comparative and International Studies
+    year: since 2020
+  - course: MA Comparative and International Studies
     institution: ETH Zurich
     year: 2020
-  - course: BA in International Affairs
+  - course: BA International Affairs
     institution: University of St. Gallen
     year: 2018
 email: "roberto.valli@icr.gess.ethz.ch"
@@ -48,8 +48,10 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at ETH Zurich. I'm enrolled in the [Center for Comparative and International Studies'](https://cis.ethz.ch/Studying_CIS/PhDCIS.html) phd program under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I posses an M.A. degree in Comparative and International Studies from ETH Zurich and a B.A. in International Affairs from the University of St. Gallen.
+I am a graduate student of political science at ETH Zurich. I'm enrolled in the [Comparative and International Studies'](https://cis.ethz.ch/Studying_CIS/PhDCIS.html) phd program under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). My dissertation uses new quantitative data to study the origins of nationalism in Europe, and is written as part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project.
 
-My research interests cover broadly speaking both causes and consequences of the politicization of ethno-cultural traits, particularly in relation to state policy. I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
+My general research interests cover causes and consequences of the politicization of ethno-cultural traits, particularly in relation to state policy. I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
+
+Before starting the phd I obtained an M.A. degree in Comparative and International Studies from ETH Zurich and a B.A. in International Affairs from the University of St. Gallen.
 
 

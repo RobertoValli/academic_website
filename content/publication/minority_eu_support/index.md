@@ -2,16 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Domestic Minority Status and Support for Supranational Integration"
-subtitle: ""
+subtitle: "With Massimo Troncone"
 summary: "Why are minority individuals particularly in favor of supranational integration? We argue that European integration challenges the nation-state, a form of statehood grants the highest status and the most opportunities to the country's titular nation. We test this rather simple, and yet largely overlooked intuition using multiple rounds of the European Social Survey and the International Social Survey."
 authors: 
 - admin
 - Massimo Troncone
-tags: []
+tags: [EU, minorities]
 categories: []
 date: 2021-05-14T09:35:02+02:00
 lastmod: 2021-05-14T09:35:02+02:00
-featured: false
+featured: true
 draft: false
 publication: Working paper
 publication_types: [3]

@@ -3,7 +3,7 @@
 
 title: "Beyond the State as Prize"
 subtitle: "Sharia Reform and Interconfessional Violence in Northern Nigeria"
-summary: ""
+summary: "How does state policy affect interconfessional violence? This ongoing project studies how symbolic state policy might legitimize violence between religiously-defined groups."
 authors: 
 - admin
 tags: [nationalism, political violence]
@@ -14,7 +14,7 @@ featured: false
 draft: false
 publication_types: [3]
 publication: Working paper
-abstract: How does state policy affect interconfessional violence? This ongoing projectr provides a theoretical model linking ethnonationalist state policy to violence between religiously-identified non-state actors, specifying causal mechanisms for how it make both groups whose status is upgraded and those who lose from the policy more prone to violence. The proposition is tested with a difference-in-differences design on the case of 1999 Sharia reforms in northern Nigeria. Estimates show, first, that the frequency of interconfessional increases in Sharia states relative to the control group. Second, different specifications provide evidence of an anticipation effect, which suggests that ethnonationalist policies affect interconfessional violence primarily through their symbolic meaning.
+abstract: How does state policy affect interconfessional violence? This ongoing project provides a theoretical model linking ethnonationalist state policy to violence between religiously-identified non-state actors, specifying causal mechanisms for how it make both groups whose status is upgraded and those who lose from the policy more prone to violence. The proposition is tested with a difference-in-differences design on the case of 1999 Sharia reforms in northern Nigeria. Estimates show, first, that the frequency of interconfessional increases in Sharia states relative to the control group. Second, different specifications provide evidence of an anticipation effect, which suggests that ethnonationalist policies affect interconfessional violence primarily through their symbolic meaning.
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

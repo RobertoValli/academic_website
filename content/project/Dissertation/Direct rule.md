@@ -3,7 +3,7 @@
 
 title: "The Origins of Nationalism"
 subtitle: "Empirical investigations of modern nationalist politics"
-summary: "PhD project. In my dissertation I study with modern computational tools and new disaggregated data the emergence of modern nationalism politics in Europe."
+summary: "PhD project. In my dissertation I study the causes of nationalism in modern Europe. While a large literature provides hypotheses and explanations for the origins of nationalist politics, there is little comparative evidence of the historical origins of nationalism in Europe. My dissertation confronts this gap by proposing a new theory of nationalism that stresses the role of changing state legitimization in modern Europe. To test the theory, I collect new historically accurate quantitative data on nationalist book production and political claim-making. The dissertation relies on modern computational methods and advances in statistical techniques to evaluate established claims about the timing and causes of nationalism. Thereby, it contributes to understand one of the most consequential phenomena that continues to shape modern politics, and one which is linked to state authority and legitimacy, but also to ethnic discrimination, political violence and conflict."
 authors: 
 - admin
 tags: [state formation, direct rule, nationalism, ethnic politics]

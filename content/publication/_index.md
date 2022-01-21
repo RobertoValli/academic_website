@@ -1,7 +1,7 @@
 ---
 header:
-  caption: ""
+  caption: "Search my research"
   image: ""
 title: Publications
-view: 3
+view: 1
 ---

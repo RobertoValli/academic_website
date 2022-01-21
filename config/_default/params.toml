@@ -11,6 +11,8 @@ day_night = true
 #   Choose from `default`, `classic`, or `playfair`.
 font = "classic"
 
+font_size = "s"
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Roberto Valli -- Personal website"
 
@@ -32,7 +34,7 @@ highlight = true
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
-math = false
+math = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -52,7 +54,11 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "roberto.valli@icr.gess.ethz.ch"
 phone = ""
-address = ""
+address = """Swiss Federal Institute of Technology
+International Conflict Research
+Center for Comparative and International Studies 
+IFW D 45.2, Haldeneggsteig 4, 
+CH-8092 Zurich, Switzerland"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
@@ -119,7 +125,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]
@@ -138,7 +144,7 @@ sharing = true
   #   3: Card
   #   4: Citation (publications only)
   post_view = 3
-  publication_view = 3
+  publication_view = 1
   talk_view = 2
 
 # Search.

@@ -4,7 +4,7 @@
 
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Ongoing research"
@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = false
     exclude_featured = true
   
 [design]

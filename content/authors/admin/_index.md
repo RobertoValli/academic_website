@@ -11,7 +11,7 @@ education:
   courses:
   - course: Visiting Student Researcher
     institution: ISEEES, UC Berkeley
-    year: 02.2022 - 08.2022
+    year: until August 2022
   - course: PhD Political Science
     institution: ETH Zurich
     year: since 2020
@@ -55,11 +55,9 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of political science at ETH Zurich. I'm enrolled in the [Comparative and International Studies'](https://cis.ethz.ch/Studying_CIS/PhDCIS.html) phd program under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). Between February and September 2022 I will visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley.
+I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). Between February and September 2022 I will visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley.
 
-My dissertation is is part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project and uses new quantitative data to study the origins of nationalism in Europe.
-My general research interests cover causes and consequences of the politicization of ethno-cultural traits, particularly in relation to state policy. I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
-
-Before starting the phd I obtained an M.A. degree in Comparative and International Studies from ETH Zurich and a B.A. in International Affairs from the University of St. Gallen.
+My dissertation is is part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project and uses quantitative data to study the origins of nationalism in Europe.
+I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
 
 

@@ -11,10 +11,10 @@ day_night = true
 #   Choose from `default`, `classic`, or `playfair`.
 font = "classic"
 
-font_size = "s"
+font_size = "xs"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Roberto Valli -- Personal website"
+description = "Roberto Valli -- Politica Scientist"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""

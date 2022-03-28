@@ -42,4 +42,4 @@ hero_media = ""
   label = "Contact me"
 
 +++
-## My name is **Roberto Valli** and I'm a graduate student of political science specializing on **state formation** and **political violence**.
+

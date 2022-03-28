@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Day After: The Bandwagon Effect of Electoral Outcomes"
+title: "Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences"
 subtitle: ""
 summary: "With Massimo Troncone"
 authors: 

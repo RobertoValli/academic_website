@@ -11,8 +11,8 @@ tags: [EU, "ethnic politics"]
 categories: []
 date: 2021-05-14T09:35:02+02:00
 lastmod: 2021-05-14T09:35:02+02:00
-featured: true
-draft: false
+featured: false
+draft: true
 publication: Working paper
 publication_types: []
 abstract: 
@@ -23,7 +23,7 @@ abstract:
 image:
   caption: "Estimated effects of minority status on support for European integration"
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

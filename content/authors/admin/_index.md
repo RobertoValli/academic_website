@@ -2,10 +2,7 @@
 authors:
 - admin
 avatar_image: pic1.jpg
-bio: My research interests include electoral and comparative politics, as well as state formation and political violence.
-btn:
-- label: Download Resume
-  url: files/valli_cv.pdf
+bio: I am a political scientist studying nationalism, state-building and ethnic politics.
 display_education: true
 education:
   courses:
@@ -43,6 +40,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5868-2599
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/phd_diversion/
 # - icon: #witter
 #   icon_pack: fab
 #   link: 
@@ -55,9 +55,9 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). Between February and September 2022 I will visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley.
+I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I am currently visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley until September 2022.
 
-My dissertation is is part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project and uses quantitative data to study the origins of nationalism in Europe.
-I am interested in the study of state and nation-formation, discrimination, as well as ethnic and party politics.
+My dissertation is is part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project and uses systematic quantitative data to study the origins of nationalism across 1750 to 1945 Europe. I investigate the role of warfare and state-building in the emergence and diffusion of nationalist publications and political claims.
+
 
 

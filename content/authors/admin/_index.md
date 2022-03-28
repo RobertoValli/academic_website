@@ -57,7 +57,7 @@ user_groups:
 
 I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I am currently visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley until September 2022.
 
-My dissertation is is part of the ERC-founded [NASTAC](https://icr.ethz.ch/research/nastac/) project and uses systematic quantitative data to study the origins of nationalism across 1750 to 1945 Europe. I investigate the role of warfare and state-building in the emergence and diffusion of nationalist publications and political claims.
+My dissertation uses systematic quantitative data to study the origins of nationalism across Europe 1750--1945 and is part of the ERC-founded [project](https://icr.ethz.ch/research/nastac/). I investigate the role of warfare, ethnic inclusion and state-building in the emergence and diffusion of nationalist publications and political claims.
 
 
 

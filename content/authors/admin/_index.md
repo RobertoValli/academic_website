@@ -25,7 +25,7 @@ interests:
 - State-building
 - Electoral politics
 - Political violence
-name: Roberto Valli
+name: ""
 organizations:
 #- name: My institutional profile
 #  url: "https://icr.ethz.ch/people/valli/"

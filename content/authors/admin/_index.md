@@ -8,7 +8,7 @@ education:
   courses:
   - course: Visiting Student Researcher
     institution: ISEEES, UC Berkeley
-    year: until August 2022
+    year: 2022
   - course: PhD Political Science
     institution: ETH Zurich
     year: since 2020
@@ -20,11 +20,8 @@ education:
     year: 2018
 email: "roberto.valli@icr.gess.ethz.ch"
 interests:
-- Nationalism
-- Ethnic politics
-- State-building
-- Electoral politics
-- Political violence
+- Nationalist and ethnic politics 
+- Electoral and political behavior
 name: ""
 organizations:
 #- name: My institutional profile
@@ -55,9 +52,8 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I am currently visiting the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley until September 2022.
+I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I visited UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) between February and September 2022. My dissertation is part of the ERC-founded [NASTAC project](https://icr.ethz.ch/research/nastac/).
 
-My dissertation uses systematic quantitative data to study the origins of nationalism across Europe 1750--1945 and is part of the ERC-founded [project](https://icr.ethz.ch/research/nastac/). I investigate the role of warfare, ethnic inclusion and state-building in the emergence and diffusion of nationalist publications and political claims.
+My main research interests relate to the origins and consequences of mass identities and political behavior based on inherited traits, such as language and religion. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
 
-
-
+My dissertation uses systematic quantitative data on nationalist publications and political claims to study the origins of nationalism across Europe 1750–1945. Thereby I investigate the role of warfare, socio-economic development and state-building in the emergence and diffusion of early nationalist politics.

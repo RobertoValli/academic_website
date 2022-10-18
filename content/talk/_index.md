@@ -7,8 +7,14 @@ view: 2
 ---
 
 
+## 2023
+SPSA Annual Conference, Basel (CH)
+
+&nbsp;
 ## 2022
-APSA Annual Conference, Montreal (CA)
+APSA Annual Meeting, Montreal (CA)
+
+AsN Annual World Convention (virtual), New York (USA)
 
 MPSA Annual Conference, Chicago IL (USA)
 

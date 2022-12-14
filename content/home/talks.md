@@ -68,8 +68,11 @@ title = "Presentations"
  css_class = ""
 +++
 
+## 2023
+SVPW Annual conference (CH)
+
 ## 2022
-MPSA Annual Conference, Chicago IL (USA)
+MPSA (USA), APSA (CA)
 
 ## 2021
-PoliTics Workshop, Castasegna (CH)
+PoliTics Workshop (CH)

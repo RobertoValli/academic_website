@@ -16,7 +16,7 @@ APSA Annual Meeting, Montreal (CA)
 
 AsN Annual World Convention (virtual), New York (USA)
 
-MPSA Annual Conference, Chicago IL (USA)
+MPSA Annual Conference, Chicago (USA)
 
 &nbsp;
 ## 2021

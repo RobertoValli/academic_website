@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: pic1.jpg
+avatar_image: pic2.png
 bio: I am a political scientist studying nationalism, state-building and ethnic politics.
 display_education: true
 education:
@@ -52,8 +52,8 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of political science at ETH Zurich under the supervision of professor [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/). I visited UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) between February and September 2022. My dissertation is part of the ERC-founded [NASTAC project](https://icr.ethz.ch/research/nastac/).
+I am a graduate student of political science at ETH Zurich. I visited UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) between February and September 2022. My dissertation is part of the ERC-founded [NASTAC project](https://icr.ethz.ch/research/nastac/) led by [Lars-Erik Cederman](https://icr.ethz.ch/people/cederman/).
 
-My main research interests relate to the origins and consequences of mass identities and political behavior based on inherited traits, such as language and religion. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
+My main research relates to the origins and consequences of mass identities and political behavior based on inherited traits, such as language and religion. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs. My dissertation uses data on nationalist publications and political claims to study the origins of nationalism across Europe 1750–1945. 
 
-My dissertation uses systematic quantitative data on nationalist publications and political claims to study the origins of nationalism across Europe 1750–1945. Thereby I investigate the role of warfare, socio-economic development and state-building in the emergence and diffusion of early nationalist politics.
+Other research projects of mine concern the dynamics of public opinion and in particular the effects of electoral outcomes on partisanship.

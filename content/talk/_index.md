@@ -8,6 +8,8 @@ view: 2
 
 
 ## 2023
+EPSA 2023, Glasgow (GB)
+
 SPSA Annual Conference, Basel (CH)
 
 &nbsp;

@@ -69,7 +69,7 @@ title = "Presentations"
 +++
 
 ## 2023
-SVPW Annual conference (CH)
+SVPW Annual conference (CH), EPSA 2023 (GB)
 
 ## 2022
 MPSA (USA), APSA (CA)

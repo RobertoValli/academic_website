@@ -12,7 +12,7 @@ font_size: "xs"
 
 <!-- [Domestic Minority Status and Support for Supranational Integration](/repo_ignore/minority_eu_support/) -->
  **Domestic Minority Status and Support for Supranational Integration**
- with Massimo Troncone [&#128279;](https://www.massimotroncone.com/)
+ with Massimo Troncone [&#128279;](https://www.massimotroncone.com/) (Under review).
 
 &nbsp;
 
@@ -23,8 +23,11 @@ font_size: "xs"
  **Geopolitical Competition and Nationalist Publications 1816--1910**
 
 <!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
- **Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences** 
+ **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences** 
  with Massimo Troncone [&#x1F517;](https://www.massimotroncone.com/)
+
+ **Peace Through Partition? A Spatial Analysis of State Splits and Conflict** 
+ with Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, and Julian Wucherpfennig.
 
 <!--[State-Building and Minority Nationalist Publications](/repo_ignore/railways_cultural/) -->
  **State-Building and Minority Nationalist Publications** 

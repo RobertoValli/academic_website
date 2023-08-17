@@ -14,7 +14,7 @@ font = "classic"
 font_size = "xs"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Roberto Valli -- Politica Scientist"
+description = "Roberto Valli -- Political Scientist"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""

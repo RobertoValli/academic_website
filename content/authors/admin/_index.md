@@ -54,10 +54,10 @@ user_groups:
 - Visitors
 ---
 
-I am PhD candidate in political science at thee [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. 
+I am PhD candidate in political science at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. 
 In 2022 I visited UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/). 
 
-My main research interests concern the origins and consequences of mass identities, and the related political behavior. My dissertation studies how border changes and war contributed to the formation of national identities in Europe. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
-In co-authored projects, I also study the dynamics of public opinion.
+My main research interests concern the origins and consequences of political identities. My dissertation studies how border change and war contributed to the formation of national identities in Europe. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
+In co-authored projects, I also study the dynamics of public opinion and religious clientelism.
 
 

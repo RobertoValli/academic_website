@@ -12,7 +12,7 @@ font_size: "xs"
 
 Yannick I. Pengl, Lars-Erik Cederman, Carl Müller-Crêpon, Roberto Valli, Luc Girardin (2023). **[The Train Wrecks of Modernization: Railway Construction and Nationalist Mobilization in Europe](/files/train_wrecks_2023.pdf)**. Under review.
   
-Massimo Troncone, Roberto Valli (2022). **Domestic Minority Status and Support for Supranational Integration**. New version coming soon.
+Massimo Troncone, Roberto Valli (2022). **[Domestic Minority Status and Support for Supranational Integration](/files/troncone_valli_minority_eu.pdf)**. 
 
 &nbsp;
 
@@ -25,7 +25,10 @@ Massimo Troncone, Roberto Valli (2022). **Domestic Minority Status and Support f
  Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig (2023) **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. In progress.
 
 <!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
- Roberto Valli, Massimo Troncone (2023). **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. In progress.
+ Roberto Valli, Massimo Troncone (2022). **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. In progress.
+
+<!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
+ Roberto Valli, Massimo Troncone (2023). **Who pays for the Church? Electoral Institutions and Religious Clientelism in Post-War Italy**. In progress.
 
 <!--[State-Building and Minority Nationalist Publications](/repo_ignore/railways_cultural/) -->
 <!-- **State-Building and Minority Nationalist Publications** 

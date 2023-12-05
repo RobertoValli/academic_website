@@ -7,28 +7,26 @@ view: 0
 font_size: "xs"
 ---
 
-## Working Papers
-&nbsp;
+## Working papers
 
 Yannick I. Pengl, Lars-Erik Cederman, Carl Müller-Crêpon, Roberto Valli, Luc Girardin (2023). **[The Train Wrecks of Modernization: Railway Construction and Nationalist Mobilization in Europe](/files/train_wrecks_2023.pdf)**. Under review.
   
-Massimo Troncone, Roberto Valli (2022). **[Domestic Minority Status and Support for Supranational Integration](/files/troncone_valli_minority_eu.pdf)**. 
+Massimo Troncone, Roberto Valli (2023). **[Domestic Minority Status and Support for Supranational Integration](/files/troncone_valli_minority_eu.pdf)**.  Under review.
 
 &nbsp;
 
-## Work in Progress
-&nbsp;
+## Work in progress
 
 <!-- [Geopolitical Competition and Cultural Nationalism](/repo_ignore/war_nationalism/) -->
- Roberto Valli (2023). **Back and Forth with the Tide? Border change and the Nationalization of Elite Culture in Alsace-Lorraine**. In progress.
+ Roberto Valli (2023). **Back and Forth with the Tide? Border change and the Nationalization of Elite Culture in Alsace-Lorraine**. Available upon request.
 
- Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig (2023) **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. In progress.
-
-<!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
- Roberto Valli, Massimo Troncone (2022). **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. In progress.
+ Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig (2023) **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. New version coming soon.
 
 <!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
- Roberto Valli, Massimo Troncone (2023). **Who pays for the Church? Electoral Institutions and Religious Clientelism in Post-War Italy**. In progress.
+ Roberto Valli, Massimo Troncone (2023). **Who pays for the Church? Electoral Institutions and Religious Clientelism in Post-War Italy**. New version coming soon.
+
+<!-- [Jumping Ship or on the Bandwagon? The Effect of Electoral Defeat on Party Preferences](/repo_ignore/polls_support/) -->
+ Roberto Valli, Massimo Troncone (2022). **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. Available upon request.
 
 <!--[State-Building and Minority Nationalist Publications](/repo_ignore/railways_cultural/) -->
 <!-- **State-Building and Minority Nationalist Publications** 

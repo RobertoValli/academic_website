@@ -10,7 +10,7 @@ tags: [state formation, direct rule, nationalism, ethnic politics]
 categories: [7]
 date: 2020-03-10T23:28:44+01:00
 lastmod: 2020-03-10T23:28:44+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

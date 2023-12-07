@@ -14,10 +14,10 @@ font = "classic"
 font_size = "xs"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Roberto Valli -- Political Scientist"
+description = "Roberto Valli | Political scientist"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "favicon.ico"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -57,7 +57,7 @@ phone = ""
 address = """Swiss Federal Institute of Technology
 International Conflict Research
 Center for Comparative and International Studies 
-IFW D 45.2, Haldeneggsteig 4, 
+IFW D 49.1, Haldeneggsteig 4, 
 CH-8092 Zurich, Switzerland"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours

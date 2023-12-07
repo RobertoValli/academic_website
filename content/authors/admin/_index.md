@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: pic2.png
+avatar_image: pic2.jpg
 bio: I am a political scientist studying nationalism, state-building and ethnic politics.
 display_education: true
 education:

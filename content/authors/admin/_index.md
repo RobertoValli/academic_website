@@ -59,6 +59,6 @@ I was a visiting researcher at UC Berkeley's [Institute for Eastern European and
 
 My main research interests concern the origins and consequences of political identities at the intersection of comparative politics, historical political economy and international relations. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
 
-My dissertation studies how border change resulting from imperial conquest and collapse contributed to the formation of national identities in Europe between. In co-authored projects, I also study the dynamics of public opinion and religious clientelism.
+My dissertation studies how border change resulting from imperial conquest and collapse contributed to the formation of national identities in Europe between 1750 and 1945. In co-authored projects, I also study the dynamics of public opinion and religious clientelism.
 
 

@@ -7,8 +7,13 @@ view: 2
 ---
 
 
+## 2024
+Migration & Ethnicity workshop, Aarhus (DK)
+
+Conflict & Change workshop, London (UK)
+
 ## 2023
-ZPESS, Zurich (CH)
+Zurich Political Economy Seminar Series, Zurich (CH)
 
 EPSA, Glasgow (GB)
 

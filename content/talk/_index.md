@@ -8,6 +8,9 @@ view: 2
 
 
 ## 2024
+
+APSA Annual Meeting, Philadelphia (USA)
+
 Migration & Ethnicity workshop, Aarhus (DK)
 
 Conflict & Change workshop, London (UK)

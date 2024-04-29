@@ -6,27 +6,28 @@ bio: I am a political scientist studying nationalism, state-building and ethnic 
 display_education: true
 education:
   courses:
-  - course: Visiting Student Researcher
+  - course: Visiting Researcher
     institution: ISEEES, UC Berkeley
     year: 2022
-  - course: PhD Political Science
+  - course: PhD in Political Science
     institution: ETH Zurich
     year: since 2020
-  - course: MA Comparative and International Studies
+  - course: MA in Comparative and International Studies
     institution: ETH Zurich
     year: 2020
-  - course: BA International Affairs
+  - course: BA in International Affairs
     institution: University of St. Gallen
     year: 2018
 email: "roberto.valli@icr.gess.ethz.ch"
 interests:
-- Historical political economy
-- Comparative politics
+- HPE
 - Nationalist and ethnic politics 
 - Electoral and political behavior
+- Religious politics
+- Conflict
 name: ""
 organizations:
-#- name: My institutional profile
+#- name: International Conflict Research, ETH Zurich
 #  url: "https://icr.ethz.ch/people/valli/"
 role: 
 social:
@@ -54,11 +55,10 @@ user_groups:
 - Visitors
 ---
 
-I am PhD candidate in political science at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. 
+I am PhD candidate in political science at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. In 2024 I will join the [Mamdhoua S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/) at Princeton University as a postdoctoral researcher.
 I was a visiting researcher at UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) during the 2022 spring semester. 
 
-My main research interests concern the origins and consequences of political identities at the intersection of comparative politics, historical political economy and international relations. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
-
-My dissertation studies how border change resulting from imperial conquest and collapse contributed to the formation of national identities in Europe between 1750 and 1945. In co-authored projects, I also study the dynamics of public opinion and religious clientelism.
+My primary research interests concern the origins and consequences of political identities at the intersection of comparative politics, historical political economy and international relations. My dissertation studies how border change contributed to shape national identities in Europe between 1816 and 1945. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
+My co-authored projects study the dynamics of public opinion and religious clientelism.
 
 

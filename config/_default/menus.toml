@@ -19,8 +19,8 @@
   weight = 40
 
 #[[main]]
-#  name = "Data"
-#  url = "#projects"
+#  name = "Dissertation"
+#  url = "project/Dissertation"
 #  weight = 50
 
 [[main]]
@@ -29,7 +29,12 @@
   weight = 60
 
 #[[main]]
-#  name = "Courses"
+#  name = "Data"
+#  url = "data/"
+#weight = 50
+
+#[[main]]
+#  name = "Teaching"
 #  url = "courses/"
 #weight = 50
 

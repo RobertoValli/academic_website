@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: pic.jpg
-bio: I am a political scientist studying nationalism, state-building and ethnic politics.
+bio: I am a political scientist studying identity, conflict and behavior.
 display_education: true
 education:
   courses:
@@ -11,9 +11,9 @@ education:
     year: 2022
   - course: PhD in Political Science
     institution: ETH Zurich
-    year: since 2020
+    year: 2024
   - course: MA in Comparative and International Studies
-    institution: ETH Zurich
+    institution: ETH Zurich & University of Zurich
     year: 2020
   - course: BA in International Affairs
     institution: University of St. Gallen
@@ -22,8 +22,8 @@ email: "roberto.valli@icr.gess.ethz.ch"
 interests:
 - HPE
 - Nationalist and ethnic politics 
-- Electoral and political behavior
-- Religious politics
+- Political behavior
+- Religion
 - Conflict
 name: ""
 organizations:
@@ -43,22 +43,22 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/phd_diversion/
-# - icon: #witter
-#   icon_pack: fab
-#   link: 
-# - icon: google-scholar
-#   icon_pack: #ai
-#   link: 
+- icon: twitter
+  icon_pack: fab
+  link: https://x.com/ValliPolisci
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=9vnyvfwAAAAJ&hl=it
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am PhD candidate in political science at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. In 2024 I will join the [Mamdhoua S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/) at Princeton University as a postdoctoral researcher.
-I was a visiting researcher at UC Berkeley's [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) during the 2022 spring semester. 
+I am a political scientist studying political behavior and identity. My research is at the intersection of comparative politics and international relations. I am currently a PhD candidate at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. In September 2024 I will join the [Mamdhoua S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/) at Princeton University as a postdoctoral research associate.
+I was a visiting researcher at the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley in 2022. 
 
-My primary research interests concern the origins and consequences of political identities at the intersection of comparative politics, historical political economy and international relations. My dissertation studies how border change contributed to shape national identities in Europe between 1816 and 1945. I rely on observational data and computational methods to measure and study nationalist and ethnic processes in new settings and with innovative research designs.
-My co-authored projects study the dynamics of public opinion and religious clientelism.
+My dissertation studies how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, public opinion and religious clientelism. In my research, I rely on spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
+
 
 

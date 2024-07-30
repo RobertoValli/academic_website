@@ -18,10 +18,10 @@
   url = "research/"
   weight = 40
 
-#[[main]]
-#  name = "Dissertation"
-#  url = "project/Dissertation"
-#  weight = 50
+[[main]]
+  name = "Dissertation"
+  url = "project/"
+  weight = 50
 
 [[main]]
   name = "Presentations"

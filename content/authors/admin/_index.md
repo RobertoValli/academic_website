@@ -7,7 +7,7 @@ display_education: true
 education:
   courses:
   - course: Visiting Researcher
-    institution: ISEEES, UC Berkeley
+    institution: UC Berkeley
     year: 2022
   - course: PhD in Political Science
     institution: ETH Zurich
@@ -20,11 +20,10 @@ education:
     year: 2018
 email: "roberto.valli@icr.gess.ethz.ch"
 interests:
-- HPE
 - Nationalist and ethnic politics 
-- Political behavior
 - Religion
 - Conflict
+- Spatial data
 name: ""
 organizations:
 #- name: International Conflict Research, ETH Zurich

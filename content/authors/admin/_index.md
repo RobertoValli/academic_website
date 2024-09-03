@@ -54,10 +54,9 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist studying political behavior and identity. My research is at the intersection of comparative politics and international relations. I am currently a PhD candidate at the [International Conflict Research](https://icr.ethz.ch/) group, ETH Zurich. In September 2024 I will join the [Mamdhoua S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/) at Princeton University as a postdoctoral research associate.
-I was a visiting researcher at the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley in 2022. 
+I am a political scientist studying the political economy of identity and conflict. My research is at the intersection of comparative politics and international relations. I am currently Postdoctoral Research Associate [Mamdhoua S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/) at Princeton University as a postdoctoral research associate. Before, I earned my PhD in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich, and I visited the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley in 2022. 
 
-My dissertation studies how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, public opinion and religious clientelism. In my research, I rely on spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
+My [dissertation](/project) studies how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, public opinion and religious clientelism. In my research, I rely on spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
 
 
 

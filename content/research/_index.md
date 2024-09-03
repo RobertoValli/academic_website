@@ -13,7 +13,7 @@ Yannick Pengl, Carl Müller-Crêpon, Roberto Valli, Lars-Erik Cederman, Luc Gira
 
 Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig (2024) **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. _International Organization_, revise and resubmit.
 
-Roberto Valli (2024). **[Back and Forth with the Tide? Border change and the Nationalization of Elite Culture in Alsace-Lorraine](https://doi.org/10.31219/osf.io/cqr68)**. Job market paper.
+Roberto Valli (2024). **[Territorial Conquest and the Nationalization of Elite Identities](https://doi.org/10.31219/osf.io/cqr68)**. Job market paper.
 
 Massimo Troncone and Roberto Valli (2024). **[Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy](https://doi.org/10.31219/osf.io/nsyc3)**. 
 

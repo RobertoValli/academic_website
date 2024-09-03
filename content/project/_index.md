@@ -3,13 +3,14 @@ header:
 
 layout: docs
 title: Splitting or Making the Difference? Border Change and the Assimilation of European Elites
+subtitle: "Committee: Lars-Erik Cederman, Daniele Caramani, Vicky Fouka"
 image:
   caption: ""
   focal_point: "center"
   preview_only: true
 ---
 
-![image](featured.png "Publication placess in Germany and France.")
+![image](featured.png "Publication places in Germany and France.")
 
 My dissertation explores the impact of international border changes on the formation and transformation of national identities. It proposes a theory that emphasizes how individuals in newly transferred territories are incentivized to assimilate into the core nation of the new state. Modern territorial states often create status hierarchies among ethnic groups, with core nations enjoying higher status and benefits. Consequently, individuals adopt cultural and linguistic traits associated with the dominant national identity to enhance opportunities and reduce discrimination. As state borders shift, territories with ethnically mixed populations face new incentives to display different ethnonational traits, fostering assimilation into the new state's core group.
 

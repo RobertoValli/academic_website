@@ -2,23 +2,23 @@
 authors:
 - admin
 avatar_image: pic.jpg
-bio: I am a political scientist studying identity, conflict and behavior.
+bio: I am a political scientist studying identity, conflict and religion.
 display_education: true
 education:
   courses:
-  - course: Visiting Researcher
-    institution: UC Berkeley
-    year: 2022
   - course: PhD in Political Science
     institution: ETH Zurich
     year: 2024
+  - course: Visiting Researcher
+    institution: UC Berkeley
+    year: 2022
   - course: MA in Comparative and International Studies
     institution: ETH Zurich & University of Zurich
     year: 2020
   - course: BA in International Affairs
     institution: University of St. Gallen
     year: 2018
-email: "roberto.valli@icr.gess.ethz.ch"
+email: "roberto.valli@princeton.edu"
 interests:
 - Identity formation
 - Conflict

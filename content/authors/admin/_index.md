@@ -54,9 +54,9 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist studying the political economy of identity and conflict. My research is at the intersection of comparative politics and international relations. I am currently Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli). Before, I earned my PhD in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich, and in 2022 I visited the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
+I am a political scientist studying the political economy of identity, conflict and religion. My research is at the intersection of comparative politics and international relations. I am currently Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli). Before, I earned my PhD in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich, and in 2022 I visited the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
 
-My [dissertation](/project) studies how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, public opinion and religious clientelism. In my research, I rely on spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
+My [dissertation](/project) studied how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, religious clientelism, and public opinion. My research uses spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
 
 
 

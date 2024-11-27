@@ -7,7 +7,13 @@ view: 2
 ---
 
 
+## 2025
+
+MPSA Annual Conference, Chicago (USA)
+
 ## 2024
+
+Political Economy Research Seminar, Princeton (USA)
 
 APSA Annual Meeting, Philadelphia (USA)
 
@@ -18,7 +24,7 @@ Conflict & Change workshop, London (UK)
 ## 2023
 Zurich Political Economy Seminar Series, Zurich (CH)
 
-EPSA, Glasgow (GB)
+EPSA Annual Conference, Glasgow (GB)
 
 SVPW Annual Conference, Basel (CH)
 

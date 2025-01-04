@@ -11,9 +11,9 @@ font_size: "xs"
 
 Yannick Pengl, Carl Müller-Crepon, Roberto Valli, Lars-Erik Cederman, Luc Girardin. **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe**. _American Political Science Review_, conditionally accepted. [[Preprint version](/files/train_wrecks.pdf)]
 
-Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig. **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. _International Organization_, revise and resubmit.
+Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig. **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. _International Organization_, under review.
 
-Roberto Valli. **Territorial Conquest and the Nationalization of Elite Identities**. (Job market paper.) Under review. [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
+Roberto Valli. **Territorial Conquest and the Nationalization of Elite Identities**. (Job market paper.) [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
 
 Massimo Troncone and Roberto Valli. **Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy**. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
 

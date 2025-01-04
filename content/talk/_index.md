@@ -11,6 +11,8 @@ view: 2
 
 MPSA Annual Conference, Chicago (USA)
 
+New York University Comparative Politics Workshop (USA)
+
 ## 2024
 
 Political Economy Research Seminar, Princeton (USA)

@@ -7,9 +7,13 @@ view: 0
 font_size: "xs"
 ---
 
-## Working papers
+## Publications
 
-Yannick Pengl, Carl Müller-Crepon, Roberto Valli, Lars-Erik Cederman, Luc Girardin. **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe**. _American Political Science Review_, conditionally accepted. [[Preprint version](/files/train_wrecks.pdf)]
+Yannick Pengl, Carl Müller-Crepon, Roberto Valli, Lars-Erik Cederman, Luc Girardin. **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe**. _American Political Science Review_, accepted for publication. [[Preprint version](/files/train_wrecks_preprint.pdf)] [[Appendix](/files/train_wrecks_appendix.pdf)]
+
+
+
+## Working papers
 
 Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig. **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. Under review.
 

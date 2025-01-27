@@ -11,7 +11,9 @@ view: 2
 
 MPSA Annual Conference, Chicago (USA)
 
-New York University Comparative Politics Workshop (USA)
+Notre Dame University Comparative Politics Workshop, South Bend (USA)
+
+New York University Comparative Politics Workshop, New York (USA)
 
 ## 2024
 

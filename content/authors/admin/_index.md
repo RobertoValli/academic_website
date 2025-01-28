@@ -54,9 +54,16 @@ user_groups:
 - Visitors
 ---
 
-I am a political scientist studying the political economy of identity, conflict and religion. I am currently Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli), and in September I will join the EUI as a Max Weber Fellow. I earned my PhD in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich in 2024, and in 2022 I visited the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
+### **About me**
 
-My [dissertation](/project) studied how border change contributed to shape national identities in Europe between 1816 and 1938. My other projects study the drivers of political violence, religious clientelism, and public opinion. My research uses spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
+I am a political scientist specializing in the political economy of identity, conflict and religion. 
+Currently, I am a Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli).
+In September, I will join the Eropean University Institute as a Max Weber Fellow. I earned my PhD in 2024 in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich in 2024. 
+In 2022, I was a visiting researcher at the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
+
+My [dissertation](/project) studied how border change contributed to shape ethnonational behavior in Europe between 1816 and 1938. 
+My other projects study the drivers of political violence, religious clientelism, and public opinion. 
+I combine spatially explicit observational data and computational methods to study politics in new settings and with innovative research designs.
 
 
 

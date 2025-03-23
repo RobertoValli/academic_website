@@ -9,25 +9,25 @@ font_size: "xs"
 
 ## Publications
 
-Yannick Pengl, Carl Müller-Crepon, Roberto Valli, Lars-Erik Cederman, Luc Girardin. **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe**. _American Political Science Review_, accepted for publication. [[Preprint version](/files/train_wrecks_preprint.pdf)] [[Appendix](/files/train_wrecks_appendix.pdf)]
+**The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe** (2025). With Yannick Pengl, Carl Müller-Crepon, Lars-Erik Cederman, Luc Girardin. _American Political Science Review_. [[Journal - ungated](https://doi.org/10.1017/S0003055425000048)] [[Appendix](/files/train_wrecks_appendix.pdf)]
 
 
 
 ## Working papers
 
-Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Roberto Valli, and Julian Wucherpfennig. **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. Under review.
+**Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. With Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Julian Wucherpfennig. Under review.
 
-Roberto Valli. **Territorial Conquest and the Nationalization of Elite Identities**. (Job market paper.) [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
+**Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy**. With Massimo Troncone. Under review. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
 
-Massimo Troncone and Roberto Valli. **Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy**. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
+**Territorial Conquest and the Nationalization of Elite Identities**. (Job market paper.) [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
 
-Roberto Valli and Massimo Troncone. **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. [[Working paper](https://doi.org/10.31219/osf.io/rz4tu)]
+**Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/rz4tu)]
   
-Massimo Troncone and Roberto Valli. **Domestic Minority Status and Support for Supranational Integration**. [[Working paper](https://doi.org/10.31219/osf.io/3zhtg)]
+**Domestic Minority Status and Support for Supranational Integration**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/3zhtg)]
 
 
 ## Selected work in progress
 
-Roberto Valli and Carl Müller-Crepon. **Border Change and Identity**.
+**Border and Identity Change: Evidence from Europe, 1815--1938**. With Carl Müller-Crepon. 
 
-Roberto Valli, Fanny Valli-Puljic and Massimo Troncone. **Discriminatory Popular Initiatives and Migrant Assimilation**.
+**Discriminatory Popular Initiatives and Migrant Assimilation**. With Fanny Valli-Puljic and Massimo Troncone. 

@@ -9,6 +9,10 @@ view: 2
 
 ## 2025
 
+APSA Annual Conference, Vancouver (CA)
+
+EPSA Annual Conference, Madrid (SP)
+
 MPSA Annual Conference, Chicago (USA)
 
 Notre Dame University Comparative Politics Workshop, South Bend (USA)

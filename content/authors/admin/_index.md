@@ -58,7 +58,7 @@ user_groups:
 
 I am a political scientist specializing in the political economy of identity, conflict and religion. 
 Currently, I am a Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli).
-In September, I will join the Eropean University Institute as a Max Weber Fellow. I earned my PhD in 2024 in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich in 2024. 
+In September, I will join the European University Institute as a Max Weber Fellow. I earned my PhD in 2024 in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich in 2024. 
 In 2022, I was a visiting researcher at the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
 
 My [dissertation](/project) studied how border change contributed to shape ethnonational behavior in Europe between 1816 and 1938. 

@@ -11,7 +11,8 @@ view: 2
 
 APSA Annual Conference, Vancouver (CA)
 
-EPSA Annual Conference, Madrid (SP)
+EPSA Annual Conference &
+Pre-Conference on Political Connections, Madrid (SP)
 
 MPSA Annual Conference, Chicago (USA)
 

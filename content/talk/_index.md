@@ -14,6 +14,8 @@ APSA Annual Conference, Vancouver (CA)
 EPSA Annual Conference &
 Pre-Conference on Political Connections, Madrid (SP)
 
+Virtual Workshop in Historical Political Economy, Online
+
 MPSA Annual Conference, Chicago (USA)
 
 Notre Dame University Comparative Politics Workshop, South Bend (USA)

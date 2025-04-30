@@ -15,11 +15,11 @@ font_size: "xs"
 
 ## Working papers
 
+**Assimilation, Emigration and Mobilization: Elite Responses to Territorial Conquest**. (Job market paper.) [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
+
+**Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy**. With Massimo Troncone. Revise & resumit, _American Journal of Political Science_. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
+
 **Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. With Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Julian Wucherpfennig. Under review.
-
-**Who Pays for the Church? Political Connections and Religious Clientelism in Post-War Italy**. With Massimo Troncone. Under review. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
-
-**Territorial Conquest and the Nationalization of Elite Identities**. (Job market paper.) [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
 
 **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/rz4tu)]
   

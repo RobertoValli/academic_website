@@ -57,7 +57,7 @@ user_groups:
 ### **About me**
 
 I am a political scientist specializing in the political economy of identity, conflict and religion. 
-Currently, I am Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli).
+I am Postdoctoral Research Associate at [Princeton University](https://bobst.princeton.edu/people/roberto-valli), visiting the University of Konstanz for the summer.
 In September, I will join the European University Institute as a Max Weber Fellow. I earned my PhD in 2024 in the [International Conflict Research](https://icr.ethz.ch/) group at ETH Zurich in 2024. 
 In 2022, I was a visiting researcher at the [Institute for Eastern European and Eurasian Studies](https://iseees.berkeley.edu/) at UC Berkeley. 
 

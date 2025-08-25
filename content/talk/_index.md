@@ -9,6 +9,8 @@ view: 2
 
 ## 2025
 
+Political Behavior and Public Opinion Conference, Barcelona (SP)
+
 APSA Annual Conference, Vancouver (CA)
 
 EPSA Annual Conference &

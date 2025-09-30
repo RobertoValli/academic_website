@@ -9,12 +9,12 @@ view: 2
 
 ## 2025
 
-Political Behavior and Public Opinion Conference, Barcelona (SP)
+Political Behavior and Public Opinion Conference, Barcelona (ES)
 
 APSA Annual Conference, Vancouver (CA)
 
 EPSA Annual Conference &
-Pre-Conference on Political Connections, Madrid (SP)
+Pre-Conference on Political Connections, Madrid (ES)
 
 Virtual Workshop in Historical Political Economy, Online
 

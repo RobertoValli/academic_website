@@ -28,6 +28,6 @@ font_size: "xs"
 
 ## Selected work in progress
 
-**Border and Identity Change: Evidence from Europe, 1815--1938**. With Carl Müller-Crepon.  [[Abstract](/files/border_change_titlepage.pdf)]
+**How Border Change Impacts Language Use: Evidence from Europe 1815--1938**. With Carl Müller-Crepon.  [[Abstract](/files/border_change_titlepage.pdf)]
 
 **Migrant Responses to Nativist Policies**. With  Massimo Troncone and Fanny Valli-Puljic.  [[Abstract](/files/mass_immigration_titlepage.pdf)]

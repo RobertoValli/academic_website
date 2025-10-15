@@ -11,6 +11,10 @@ view: 2
 
 Political Behavior and Public Opinion Conference, Barcelona (ES)
 
+WU Vienna Political Economy of Public Policy Seminar, Vienna (AT)
+
+
+
 APSA Annual Conference, Vancouver (CA)
 
 EPSA Annual Conference &
@@ -18,17 +22,17 @@ Pre-Conference on Political Connections, Madrid (ES)
 
 Virtual Workshop in Historical Political Economy, Online
 
-MPSA Annual Conference, Chicago (USA)
+MPSA Annual Conference, Chicago (US)
 
-Notre Dame University Comparative Politics Workshop, South Bend (USA)
+Notre Dame University Comparative Politics Workshop, South Bend (US)
 
-New York University Comparative Politics Workshop, New York (USA)
+New York University Comparative Politics Workshop, New York (US)
 
 ## 2024
 
-Political Economy Research Seminar, Princeton (USA)
+Political Economy Research Seminar, Princeton (US)
 
-APSA Annual Meeting, Philadelphia (USA)
+APSA Annual Meeting, Philadelphia (US)
 
 Migration & Ethnicity workshop, Aarhus (DK)
 
@@ -44,9 +48,9 @@ SVPW Annual Conference, Basel (CH)
 ## 2022
 APSA Annual Meeting, Montreal (CA)
 
-AsN Annual World Convention (virtual), New York (USA)
+AsN Annual World Convention (virtual), New York (US)
 
-MPSA Annual Conference, Chicago (USA)
+MPSA Annual Conference, Chicago (US)
 
 SVPW Annual Conference, online (CH)
 

@@ -6,6 +6,13 @@ title: " "
 view: 2
 ---
 
+## 2026
+
+Exclusionary Politics, Illiberalism, and Chauvinism Workshop (UK)
+
+UB-Yale Historical Political Economy Workshop (ES)
+
+European Political Science Society (UK)
 
 ## 2025
 

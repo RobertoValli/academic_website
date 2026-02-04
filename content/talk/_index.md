@@ -8,11 +8,11 @@ view: 2
 
 ## 2026
 
-Exclusionary Politics, Illiberalism, and Chauvinism Workshop (UK)
+Exclusionary Politics, Illiberalism, and Chauvinism Workshop, London (UK)
 
-UB-Yale Historical Political Economy Workshop (ES)
+UB-Yale Historical Political Economy Workshop, Barcelona (ES)
 
-European Political Science Society (UK)
+European Political Science Society, Belfast (UK)
 
 ## 2025
 

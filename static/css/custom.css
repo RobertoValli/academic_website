@@ -1,0 +1,42 @@
+/* Research page: keep abstract toggle close to the paper line, with more space after it. */
+.article-style p + details {
+  margin-top: -0.7rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.article-style details > summary {
+  cursor: pointer;
+  margin-left: 0.75rem;
+  font-size: 0.95em;
+}
+
+.article-style details > p {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  margin-left: 1rem;
+  font-size: 0.92em;
+}
+
+/* Keep social icons on one row more easily by reducing horizontal gaps. */
+.network-icon li {
+  margin-left: 0.35rem !important;
+  margin-right: 0.35rem !important;
+}
+
+/* Dissertation page (/project/): smaller title and tighter subtitle-to-figure spacing. */
+body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 h1[itemprop="name"] {
+  font-size: 2rem !important;
+  line-height: 1.2 !important;
+}
+
+body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 {
+  padding-bottom: 0.2rem !important;
+}
+
+body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 .page-subtitle {
+  margin-bottom: 0.2rem !important;
+}
+
+body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 + .universal-wrapper .article-style > p:first-child {
+  margin-top: 0 !important;
+}

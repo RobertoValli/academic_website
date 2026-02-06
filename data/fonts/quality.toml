@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Quality Sans"
+
+# Explicit weights prevent browser-synthesized bold text.
+google_fonts = "Lato:400,700|Source+Sans+3:400,500,600,700|Roboto+Mono:400,700"
+
+# Font families
+heading_font = "Lato"
+body_font = "Source Sans 3"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"

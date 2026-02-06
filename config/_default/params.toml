@@ -8,8 +8,8 @@ color_theme = "default"
 day_night = true
 
 # Font style.
-#   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+#   Use any font preset available in `data/fonts/` or theme defaults.
+font = "quality"
 
 font_size = "xs"
 

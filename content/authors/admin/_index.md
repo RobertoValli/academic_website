@@ -2,7 +2,7 @@
 authors:
 - admin
 avatar_image: pic.jpg
-bio: I am a political scientist studying identity, conflict and religion.
+bio: I am a political scientist studying identity, conflict, and religion.
 display_education: true
 # education:
 #   courses:
@@ -33,22 +33,25 @@ role:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:roberto.valli@eui.eu
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/RobertoValli
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5868-2599
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/phd_diversion/
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/ValliPolisci
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9vnyvfwAAAAJ&hl=it
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/phd_diversion/
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/robertovalli.bsky.social
+- icon: x-twitter
+  icon_pack: fab
+  link: https://x.com/ValliPolisci
 superuser: true
 user_groups:
 - Researchers
@@ -57,14 +60,12 @@ user_groups:
 
 ### **About me**
 
-I am a political scientist specializing in the political economy of identity, conflict and religion. 
-I am currently [Max Weber Fellow](https://www.eui.eu/people?id=roberto-valli) at the European University Institute. I earned my PhD at ETH Zurich in 2024, after which I have been Postdoctoral Research Associate at Princeton University. 
-I was also visiting researcher at the University of Konstanz (2025), and at UC Berkeley (2022). 
+I am a political scientist studying the political economy of identity, conflict, and religion. I am currently a [Max Weber Fellow](https://www.eui.eu/people?id=roberto-valli) at the European University Institute.
 
-My [dissertation](/project) studied how border change contributed to shape ethnolinguistic behavior in Europe between 1816 and 1938. 
-Other projects of mine investigate the dynamics of political violence, religious politics, and public opinion. 
-In my research, I like to combine spatially explicit observational data and computational methods to study new (and often historical) settings with innovative research designs. My work has been published in the American Political Science Review.
+My research examines how institutions, borders, and political incentives shape ethnolinguistic behavior, political violence, and religious politics. Methodologically, I combine spatially explicit historical and contemporary data with computational methods and rigorous research designs.
 
-I am on the academic job market this year. If you think I could be a good match for your institution, please don’t hesitate to get in touch!
+My [dissertation](/project) analyzes how border change shaped ethnolinguistic behavior of book authors in Europe (1816-1938). My work has been published in the *American Political Science Review*.
 
+I received my PhD in Political Science from ETH Zurich in 2024, then worked as a Postdoctoral Research Associate at Princeton University. I have also been a visiting researcher at the University of Konstanz (2025) and UC Berkeley (2022).
 
+I am on the academic job market this year. If you think I could be a strong match for your institution, please feel free to get in touch!

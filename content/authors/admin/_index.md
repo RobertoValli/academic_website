@@ -57,6 +57,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+### **Current: Call for papers**
+The EUI [Political Economy Applied Research Lab](https://www.eui.eu/research-hub?id=florence-pearl-florence-political-economy-applied-research-lab) is organizing a workshop for PhDs and postdocs working on applied political economy topics (June 8-9, 2026). Please consider applying, we have a wonderful crowd and some travel funding. See the call [here](/files/PEARL_workshop_call_for_papers.pdf), deadline is April 14.
 
 ### **About me**
 

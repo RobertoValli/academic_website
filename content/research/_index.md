@@ -12,7 +12,7 @@ font_size: "xs"
 **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe** (2025). With Yannick Pengl, Carl Müller-Crepon, Lars-Erik Cederman, Luc Girardin. _American Political Science Review_. [[Journal - ungated](https://doi.org/10.1017/S0003055425000048)] [[Appendix](/files/train_wrecks_appendix.pdf)] [[APSR Blog post](https://www.cambridge.org/core/blog/2025/05/28/the-train-wrecks-of-modernization-railway-construction-and-separatist-mobilization-in-europe/)]
 <details>
   <summary>Abstract</summary>
-  <p>Your abstract text goes here...</p>
+  <p>This paper uses the gradual expansion of the European railway network to investigate how this key technological driver of modernization affected ethnic separatism between 1816 and 1945. Combining new historical data on ethnic settlement areas, conflict, and railway construction, we test how railroads affected separatist conflict and successful secession as well as independence claims among peripheral ethnic groups. Difference-in-differences, event study, and instrumental variable models show that, on average, railway-based modernization increased separatist mobilization and secession. These effects concentrate in countries with small core groups, weak state capacity, and low levels of economic development as well as in large ethnic minority regions. Exploring causal mechanisms, we show how railway networks can facilitate mobilization by increasing the internal connectivity of ethnic regions and hamper it by boosting state reach. Overall, our findings call for a more nuanced understanding of the effects of European modernization on nation building.</p>
 </details>
 
 

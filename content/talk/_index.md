@@ -12,15 +12,15 @@ UB-Yale Historical Political Economy Workshop, Barcelona (ES)
 
 European Political Science Society, Belfast (UK)
 
-Exclusionary Politics, Illiberalism, and Chauvinism Workshop @ LSE, London (UK)
+EUI-NYU Abu Dhabi Political Violence Workshop, Florence (IT)
+
+Exclusionary Politics, Illiberalism, and Chauvinism Workshop, London (UK)
 
 ## 2025
 
 Political Behavior and Public Opinion Conference, Barcelona (ES)
 
 WU Vienna Political Economy of Public Policy Seminar, Vienna (AT)
-
-
 
 APSA Annual Conference, Vancouver (CA)
 

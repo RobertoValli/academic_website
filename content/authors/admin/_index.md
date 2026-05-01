@@ -66,6 +66,6 @@ My research examines how institutions, borders, and political incentives shape e
 
 My [dissertation](/project) analyzes how border change shaped ethnolinguistic behavior of book authors in Europe (1816-1938). My work has been published in the *American Political Science Review*.
 
-I received my PhD in Political Science from ETH Zurich in 2024, then worked as a Postdoctoral Research Associate at Princeton University. I have also been a visiting researcher at the University of Konstanz (2025) and UC Berkeley (2022).
+I received my PhD in Political Science from ETH Zurich in 2024, then worked as a Postdoctoral Research Associate at Princeton University. I have also been a visiting researcher at the University of Konstanz (2025) and UC Berkeley (2022). This summer I will visit the University of Konstanz again.
 
 I am on the academic job market this year. If you think I could be a strong match for your institution, please feel free to get in touch!

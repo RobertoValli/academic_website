@@ -7,7 +7,7 @@ view: 0
 font_size: "xs"
 ---
 
-## Publications
+# Publications
 
 **The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe** (2025). With Yannick Pengl, Carl Müller-Crepon, Lars-Erik Cederman, Luc Girardin. _American Political Science Review_. [[Journal - ungated](https://doi.org/10.1017/S0003055425000048)] [[Appendix](/files/train_wrecks_appendix.pdf)] [[APSR Blog post](https://www.cambridge.org/core/blog/2025/05/28/the-train-wrecks-of-modernization-railway-construction-and-separatist-mobilization-in-europe/)]
 <details>
@@ -16,7 +16,7 @@ font_size: "xs"
 </details>
 
 
-## Working papers
+# Working papers
 
 **Exit, Assimilation, and Mobilization after Conquest: Evidence from Alsace-Lorraine**. (<u>Job market paper</u>.) Under review. [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
 <details>
@@ -45,10 +45,14 @@ font_size: "xs"
 
 
 **Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/rz4tu)]
+
+**Domestic Minority Status and Support for Supranational Integration**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/3zhtg)]
+
+
   
 
 
-## Selected work in progress
+# Selected work in progress
 
 **How Border Change Impacts Language Use: Evidence from Europe 1815-1938**. With Carl Müller-Crepon.
 <details>
@@ -61,9 +65,3 @@ font_size: "xs"
   <summary>Abstract</summary>
   <p>Immigration remains a contentious issue worldwide, often sparking debates about cultural integration and social cohesion. This study investigates how anti-immigration policies influence the cultural assimilation of immigrant populations, focusing on the 2014 Swiss popular initiative "Against Mass Immigration." Approved by 50.3% of voters, the initiative symbolized public hostility toward immigration and imposed new employment restrictions on EU migrants. Using the full Swiss registry data, we analyze migrant responses in terms of residential patterns, marital decisions, fertility, and assimilation choices. Difference-in-differences estimates comparing temporary EU migrants to other immigrants unaffected by the policy allow us to isolate the economic effects from those of increased perceived discrimination. Results suggest that nativist immigration policies reduce internal migrant mobility, foster desegregation, and reduce fertility. Yet we find no evidence of either reduced or increased cultural assimilation efforts. Our findings contribute to debates on whether nativist policy fosters assimilation or reinforces ethnic identity, offering insights into the impact of negative economic incentives on immigrant integration.</p>
 </details>
-
-
-## Dormant papers
-
-**Domestic Minority Status and Support for Supranational Integration**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/3zhtg)]
-

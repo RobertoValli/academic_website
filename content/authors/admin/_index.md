@@ -25,11 +25,11 @@ email: "roberto.valli@eui.eu"
 #- Conflict
 #- Religious politics
 #- Spatial and computational methods
-name: ""
+name: "Roberto Valli"
 organizations:
-#- name: Princeton University
-#  url: "https://bobst.princeton.edu/people/roberto-valli"
-role: 
+- name: European University Institute
+  url: "https://www.eui.eu/people?id=roberto-valli"
+role: Max Weber Fellow & Part-Time Assistant Prof. of AI
 social:
 - icon: envelope
   icon_pack: fas
@@ -60,7 +60,7 @@ user_groups:
 
 ### **About me**
 
-I am a political scientist studying the political economy of identity, conflict, and religion. I am currently a [Max Weber Fellow](https://www.eui.eu/people?id=roberto-valli) at the European University Institute.
+I am a political scientist studying the political economy of identity, conflict, and religion. 
 
 My research examines how institutions, borders, and political incentives shape ethnolinguistic behavior, political violence, and religious politics. Methodologically, I combine spatially explicit historical and contemporary data with computational methods and rigorous research designs.
 

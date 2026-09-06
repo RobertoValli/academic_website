@@ -17,10 +17,10 @@ font_size = "xs"
 description = "Roberto Valli | Political scientist"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "favicon.ico"
+sharing_image = "og-card.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "ValliPolisci"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -52,13 +52,12 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "roberto.valli@icr.gess.ethz.ch"
+email = "roberto.valli@eui.eu"
 phone = ""
-address = """Swiss Federal Institute of Technology
-International Conflict Research
-Center for Comparative and International Studies 
-IFW D 49.1, Haldeneggsteig 4, 
-CH-8092 Zurich, Switzerland"""
+address = """European University Institute
+Max Weber Programme
+Via dei Roccettini 9
+50014 San Domenico di Fiesole (FI), Italy"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""

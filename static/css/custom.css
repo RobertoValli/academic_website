@@ -1,21 +1,239 @@
-/* Research page: keep abstract toggle close to the paper line, with more space after it. */
-.article-style p + details {
-  margin-top: -0.7rem !important;
-  margin-bottom: 1rem !important;
+/* =========================================================================
+   Content pages: /research/, /courses/ (Teaching), /talk/ (Presentations)
+
+   These three share the same shape -- quiet section labels, entries with a
+   title and a byline, and action links -- so they share one set of rules.
+   Scoped via the active nav item, so nothing here leaks onto other pages.
+   Goal: paper titles are the dominant element; section labels are quiet;
+   links read as buttons instead of bracketed inline text.
+   ========================================================================= */
+
+body:has(a.nav-link.active[href="/research/"]),
+body:has(a.nav-link.active[href="/courses/"]),
+body:has(a.nav-link.active[href="/talk/"]) {
+  --rs-title:      #111144;  /* navy sampled from the site logo */
+  --rs-meta:       #55556b;
+  --rs-label:      #6b6b80;
+  --rs-rule:       #e6e6ee;
+  --rs-pill-text:  #fc6f5c;  /* the baseline brand coral */
+  --rs-pill-bg:    #ffffff;
+  --rs-pill-bd:    #f6b3a6;
+  --rs-pill-htext: #111144;  /* navy on coral fill = 6.4:1, so the hover
+                                state stays legible while using the exact
+                                brand coral as the background */
+  --rs-pill-hbg:   #fc6f5c;
+  --rs-pill-hbd:   #fc6f5c;
 }
 
-.article-style details > summary {
+body.dark:has(a.nav-link.active[href="/research/"]),
+body.dark:has(a.nav-link.active[href="/talk/"]),
+body.dark:has(a.nav-link.active[href="/courses/"]) {
+  --rs-title:      #e8e8f5;
+  --rs-meta:       #a8a8c2;
+  --rs-label:      #9898b4;
+  --rs-rule:       #32324a;
+  --rs-pill-text:  #fc6f5c;  /* 6.2:1 on the dark ground -- passes AA */
+  --rs-pill-bg:    transparent;
+  --rs-pill-bd:    #6b4038;
+  --rs-pill-htext: #1a1a2e;
+  --rs-pill-hbg:   #fc6f5c;
+  --rs-pill-hbd:   #fc6f5c;
+}
+
+/* Section labels ("Publications", "Working papers", ...): small and quiet,
+   so they organise the page without competing with the paper titles. */
+body:has(a.nav-link.active[href="/research/"]) .article-style h2 ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style h2 ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style h2 {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  color: var(--rs-label, #6b6b80);
+  margin: 3.2rem 0 0;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--rs-rule, #e6e6ee);
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style h2:first-child ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style h2:first-child ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style h2:first-child {
+  margin-top: 0.5rem;
+}
+
+/* Paper titles: the thing the eye should land on. */
+body:has(a.nav-link.active[href="/research/"]) .article-style h3 ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style h3 ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style h3 {
+  font-size: 1.27rem;
+  line-height: 1.34;
+  font-weight: 700;
+  color: var(--rs-title, #111144);
+  margin: 2.1rem 0 0.3rem;
+}
+/* First paper in a section sits closer to that section's rule. */
+body:has(a.nav-link.active[href="/research/"]) .article-style h2 + h3 ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style h2 + h3 ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style h2 + h3 {
+  margin-top: 1.15rem;
+}
+
+/* Byline / status line directly under a title. */
+body:has(a.nav-link.active[href="/research/"]) .article-style h3 + p ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style h3 + p ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style h3 + p {
+  color: var(--rs-meta, #55556b);
+  font-size: 0.97rem;
+  line-height: 1.45;
+  margin: 0 0 0.75rem;
+}
+
+/* --- Link buttons (see layouts/shortcodes/links.html) -------------------
+   Deliberately self-contained: these use literal colours rather than the
+   --rs-* tokens above. The tokens are defined on a :has() selector, and if a
+   browser fails to match it the tokens are undefined -- which makes
+   "border: 1px solid var(--undefined)" invalid at computed-value time and
+   silently removes the button's box. Literal values cannot fail that way. */
+.paper-links {
+  margin: 0.55rem 0 0.5rem;
+}
+.paper-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0;
+}
+.paper-links a {
+  display: inline-block;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #fc6f5c;                 /* the baseline brand coral */
+  background: #ffffff;
+  border: 1px solid #f6b3a6;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color .15s ease, border-color .15s ease, color .15s ease;
+}
+.paper-links a:hover,
+.paper-links a:focus {
+  color: #111144;                 /* navy on coral fill = 6.4:1 */
+  background: #fc6f5c;
+  border-color: #fc6f5c;
+  text-decoration: none;
+}
+.paper-links a:focus-visible {
+  outline: 2px solid #fc6f5c;
+  outline-offset: 2px;
+}
+
+body.dark .paper-links a {
+  color: #fc6f5c;                 /* 6.2:1 on the dark ground */
+  background: transparent;
+  border-color: #6b4038;
+}
+body.dark .paper-links a:hover,
+body.dark .paper-links a:focus {
+  color: #1a1a2e;
+  background: #fc6f5c;
+  border-color: #fc6f5c;
+}
+
+/* --- Abstract toggles --------------------------------------------------- */
+body:has(a.nav-link.active[href="/research/"]) .article-style details ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details {
+  margin: 0 0 0.4rem;
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details > summary ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details > summary ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details > summary {
   cursor: pointer;
-  margin-left: 0.75rem;
-  font-size: 0.95em;
+  display: inline-block;
+  font-size: 0.93rem;
+  font-weight: 600;
+  color: var(--rs-meta, #55556b);
+  padding: 0.15rem 0;
+  list-style: none;          /* replaced by the chevron below */
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details > summary::-webkit-details-marker ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details > summary::-webkit-details-marker ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details > summary::-webkit-details-marker {
+  display: none;
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details > summary::before ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details > summary::before ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.4em;
+  height: 0.4em;
+  margin-right: 0.55em;
+  vertical-align: 0.12em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform .15s ease;
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details[open] > summary::before ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details[open] > summary::before ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details[open] > summary::before {
+  transform: rotate(45deg);
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details > summary:hover ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details > summary:hover ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details > summary:hover {
+  color: var(--rs-pill-text, #fc6f5c);
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details[open] > summary ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details[open] > summary ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details[open] > summary {
+  margin-bottom: 0.35rem;
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style details > p ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style details > p ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style details > p {
+  margin: 0 0 0 0.9rem;
+  padding-left: 0.9rem;
+  border-left: 2px solid var(--rs-rule, #e6e6ee);
+  font-size: 0.94rem;
+  line-height: 1.55;
+  color: var(--rs-meta, #55556b);
 }
 
-.article-style details > p {
-  margin-top: 0.25rem;
-  margin-bottom: 0;
-  margin-left: 1rem;
-  font-size: 0.92em;
+/* --- Compact entry lists ------------------------------------------------
+   Used for conference venues (/talk/) and guest lectures (/courses/), where
+   each entry is a single line with no links and no abstract. A list is both
+   the right semantics and far tighter than one paragraph per line.        */
+body:has(a.nav-link.active[href="/research/"]) .article-style ul ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style ul ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 0;
 }
+body:has(a.nav-link.active[href="/research/"]) .article-style ul li ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style ul li ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style ul li {
+  padding: 0.3rem 0;
+  line-height: 1.5;
+}
+body:has(a.nav-link.active[href="/research/"]) .article-style ul li + li ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style ul li + li ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style ul li + li {
+  border-top: 1px solid var(--rs-rule, #e6e6ee);
+}
+/* The lecture/course title inside a list entry. */
+body:has(a.nav-link.active[href="/research/"]) .article-style ul li strong ,
+body:has(a.nav-link.active[href="/courses/"]) .article-style ul li strong ,
+body:has(a.nav-link.active[href="/talk/"]) .article-style ul li strong {
+  color: var(--rs-title, #111144);
+  font-weight: 700;
+}
+
+/* =========================================================================
+   Site-wide tweaks
+   ========================================================================= */
 
 /* Keep social icons on one row more easily by reducing horizontal gaps. */
 .network-icon li {

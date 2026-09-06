@@ -2,65 +2,109 @@
 header:
   caption: ""
   image: ""
-title: ""
+title: "Research"
 view: 0
 font_size: "xs"
 ---
 
-# Publications
+## Job market paper
 
-**The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe** (2025). With Yannick Pengl, Carl Müller-Crepon, Lars-Erik Cederman, Luc Girardin. _American Political Science Review_. [[Journal - ungated](https://doi.org/10.1017/S0003055425000048)] [[Appendix](/files/train_wrecks_appendix.pdf)] [[APSR Blog post](https://www.cambridge.org/core/blog/2025/05/28/the-train-wrecks-of-modernization-railway-construction-and-separatist-mobilization-in-europe/)]
-<details>
-  <summary>Abstract</summary>
-  <p>This paper uses the gradual expansion of the European railway network to investigate how this key technological driver of modernization affected ethnic separatism between 1816 and 1945. Combining new historical data on ethnic settlement areas, conflict, and railway construction, we test how railroads affected separatist conflict and successful secession as well as independence claims among peripheral ethnic groups. Difference-in-differences, event study, and instrumental variable models show that, on average, railway-based modernization increased separatist mobilization and secession. These effects concentrate in countries with small core groups, weak state capacity, and low levels of economic development as well as in large ethnic minority regions. Exploring causal mechanisms, we show how railway networks can facilitate mobilization by increasing the internal connectivity of ethnic regions and hamper it by boosting state reach. Overall, our findings call for a more nuanced understanding of the effects of European modernization on nation building.</p>
-</details>
+### Exit, Assimilation, and Mobilization after Conquest: Evidence from Alsace-Lorraine
 
+Under review.
 
-# Working papers
+{{< links >}}
+[Working paper](https://doi.org/10.31219/osf.io/cqr68)
+{{< /links >}}
 
-**Exit, Assimilation, and Mobilization after Conquest: Evidence from Alsace-Lorraine**. (<u>Job market paper</u>.) Under review. [[Working paper](https://doi.org/10.31219/osf.io/cqr68)]
 <details>
   <summary>Abstract</summary>
   <p>How do individuals respond to conquest? While prior studies document its long-term legacies, they typically focus on single forms of response and offer limited theoretical priors on how individuals adjust in the immediate aftermath. I argue that conquered populations choose between emigration, assimilation, and mobilization. I study these responses among intellectuals in Alsace-Lorraine after the German conquest of 1870 and the French reconquest of 1918, leveraging a difference-in-differences design and novel georeferenced data on historical book publications. Both conquests triggered large shifts toward the conqueror's language. Within-author estimates show that these shifts reflected not only the selective emigration but also assimilation efforts among those who remained. Conquest simultaneously spurred regionalist mobilization, and the two responses are substitutes rather than complements. The findings show that conquest induces trade-offs between alternative strategies of adaptation, and that even instrumental assimilation can have lasting political consequences.</p>
 </details>
 
+## Publications
 
-**Who Pays for the Church? Religious Clientelism and Broker Compensation in Post-War Italy**. With Massimo Troncone. Revise & resubmit, _American Journal of Political Science_. [[Working paper](https://doi.org/10.31219/osf.io/nsyc3)]
+### The Train Wrecks of Modernization: Railway Construction and Separatist Mobilization in Europe
+
+*American Political Science Review*, 2025. With Yannick Pengl, Carl Müller-Crepon, Lars-Erik Cederman, Luc Girardin.
+
+{{< links >}}
+[Journal - ungated](https://doi.org/10.1017/S0003055425000048)
+[Appendix](/files/train_wrecks_appendix.pdf)
+[APSR blog post](https://www.cambridge.org/core/blog/2025/05/28/the-train-wrecks-of-modernization-railway-construction-and-separatist-mobilization-in-europe/)
+{{< /links >}}
+
+<details>
+  <summary>Abstract</summary>
+  <p>This paper uses the gradual expansion of the European railway network to investigate how this key technological driver of modernization affected ethnic separatism between 1816 and 1945. Combining new historical data on ethnic settlement areas, conflict, and railway construction, we test how railroads affected separatist conflict and successful secession as well as independence claims among peripheral ethnic groups. Difference-in-differences, event study, and instrumental variable models show that, on average, railway-based modernization increased separatist mobilization and secession. These effects concentrate in countries with small core groups, weak state capacity, and low levels of economic development as well as in large ethnic minority regions. Exploring causal mechanisms, we show how railway networks can facilitate mobilization by increasing the internal connectivity of ethnic regions and hamper it by boosting state reach. Overall, our findings call for a more nuanced understanding of the effects of European modernization on nation building.</p>
+</details>
+
+## Working papers
+
+### Who Pays for the Church? Religious Clientelism and Broker Compensation in Post-War Italy
+
+Revise & resubmit, *American Journal of Political Science*. With Massimo Troncone.
+
+{{< links >}}
+[Working paper](https://doi.org/10.31219/osf.io/nsyc3)
+{{< /links >}}
+
 <details>
   <summary>Abstract</summary>
   <p>In many contexts, religious leaders mobilize support for allied politicians. These mobilization efforts are often part of informal agreements in which politicians promise material compensation once elected, but may later shirk on their commitments. Given this uncertainty, little is known about how and when politicians compensate the brokerage of religious leaders. We study the compensation choices of elected politicians in a weakly institutionalized setting where religious brokers mobilize voters for personally connected candidates. We argue that politicians reward religious leaders by distributing rewards that increase their status within the organization and the local community. We illustrate this argument by investigating exchanges between Catholic bishops and Christian Democratic politicians in postwar Italy. Difference-in-differences estimates indicate that elected politicians reward connected bishops with investments in church renovations, and that electoral incentives drive these effects. These findings illustrate the reciprocal incentives that underpin politician-clergy alliances in electoral democracies.</p>
 </details>
 
-**Difference-in-Differences Estimates under Selective Migration**.  [[Working paper](https://osf.io/preprints/socarxiv/s7pw3_v1)]
+### Difference-in-Differences Estimates under Selective Migration
+
+{{< links >}}
+[Working paper](https://osf.io/preprints/socarxiv/s7pw3_v1)
+{{< /links >}}
+
 <details>
   <summary>Abstract</summary>
   <p>Difference-in-differences (DiD) designs are widely used to estimate causal effects of location-based treatments on individual outcomes. Yet when treatments trigger selective migration, observed changes in location-level outcomes conflate behavioral responses of stayers with compositional shifts caused by selective entry and exit. This paper develops a formal decomposition of DiD estimands in the presence of treatment-induced migration. Building on principal stratification, I show that the aggregate DiD estimand decomposes into a behavioral component and compositional terms driven by selective exits and entries. The within-unit DiD with individual fixed effects identifies the Survivor Average Treatment Effect (SATE) for stayers, but not the average treatment effect on the treated (ATT) for the full pre-treatment population. I characterize the ATT-SATE gap and propose three strategies for applied researchers to quantify compositional effects. Extensions address migration across treatment and control areas, where contamination and depletion biases compound the compositional effect, and staggered treatment adoption, where migration bias accumulates with exposure time.</p>
 </details>
 
-**Peace Through Partition? A Spatial Analysis of State Splits and Conflict**. With Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Julian Wucherpfennig.
+### Peace Through Partition? A Spatial Analysis of State Splits and Conflict
+
+With Lars-Erik Cederman, Luc Girardin, María Murias Munoz, Yannick Pengl, Julian Wucherpfennig.
+
 <details>
   <summary>Abstract</summary>
   <p>Does the partitioning of states along ethnic lines reduce conflict? While most existing theories argue that partition prevents conflict recurrence by separating the parties, others dispute these findings. Rather than being driven by a separation logic, we argue that partition pacifies by reducing ethno-political domination. But power sharing can also reduce domination and thus bring peace within fixed state borders. Adopting a spatial approach, we reconceptualize partition as decreased cohabitation in dyads of transnationally-defined ethnic groups. Difference-in-differences analyses based on a global dataset (1946-2017) reveal mixed evidence that partition *per se* reduces intergroup conflict. Whereas its incomplete application is more likely to increase this risk, analysis using an index of domination shows that partitions that produce low-domination outcomes are more peaceful than those that do not. Moreover, we find that power sharing can also exert a pacifying effect without the destabilizing geopolitical side effects of border change.</p>
 </details>
 
+### Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences
 
-**Shifting Partisan Attachments: The Impact of Electoral Defeat on Voter Preferences**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/rz4tu)]
+With Massimo Troncone.
 
-**Domestic Minority Status and Support for Supranational Integration**. With Massimo Troncone. [[Working paper](https://doi.org/10.31219/osf.io/3zhtg)]
+{{< links >}}
+[Working paper](https://doi.org/10.31219/osf.io/rz4tu)
+{{< /links >}}
 
+### Domestic Minority Status and Support for Supranational Integration
 
-  
+With Massimo Troncone.
 
+{{< links >}}
+[Working paper](https://doi.org/10.31219/osf.io/3zhtg)
+{{< /links >}}
 
-# Selected work in progress
+## Selected work in progress
 
-**How Border Change Impacts Language Use: Evidence from Europe 1815-1938**. With Carl Müller-Crepon.
+### How Border Change Impacts Language Use: Evidence from Europe 1815-1938
+
+With Carl Müller-Crepon.
+
 <details>
   <summary>Abstract</summary>
   <p>Ethnic and national identities are closely tied to the incentives set by states within their borders. However, little is known of how identities change when state borders move. Focusing on the introduction and removal of international borders between 1815 and 1938, this paper investigates how border change affected the ethnonational geography of Europe. We argue that in periods of nation-building, individuals subjected to a change in ruling state are incentivized to assimilate into the conquering state. Using highly disaggregated proxies of national identity and the spatial discontinuities in ruling state caused by the introduction and removal of borders, we show that ethnolinguistic identities converge when under the same state and diverge when exposed to different states' rule. Assimilation, migration, and nation-building policy drive these results. Our findings highlight how geopolitics contributed to the formation of nations along state borders.</p>
 </details>
 
-**Majority Preferences and Minority Cultural Transmission: Evidence from Switzerland's Face-Covering Vote**. With Massimo Troncone and Fanny Valli-Puljic.
+### Majority Preferences and Minority Cultural Transmission: Evidence from Switzerland's Face-Covering Vote
+
+With Massimo Troncone and Fanny Valli-Puljic.
+
 <details>
   <summary>Abstract</summary>
   <p>How do minorities respond when a majority publicly rejects practices associated with their culture? We study Switzerland’s March 2021 popular vote approving a constitutional ban on face coverings. Because full-face veiling was extremely rare among Swiss residents and enforcement began only in 2025, the vote provides an unusual setting for studying responses to a political signal largely separated from immediate behavioral restrictions. Using linked administrative and survey records covering the Swiss population, we compare the fertility and naming choices of Muslim and non-Muslim migrant women before and after the vote. Because childbirth may itself respond to treatment, we estimate naming outcomes on the full population at risk and reconstruct changes in the cultural composition of births. The vote increased the share of births receiving names commonly used in the local Swiss language area by about 6 percentage points, offset by a decline in culturally neutral or international names, while the share receiving Muslim names remained unchanged. These shifts were larger in municipalities that approved the initiative and among women with non-Muslim partners. The findings show that public expressions of majority rejection can reshape minority cultural transmission even in the absence of immediate material constraints.</p>

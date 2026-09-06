@@ -1,0 +1,14 @@
+{{/*
+  A row of action links for a paper (PDF, journal version, appendix, ...),
+  rendered as buttons rather than bracketed inline text.
+
+  Usage -- put each link on its own line, no blank lines between them:
+
+    {{< links >}}
+    [Journal - ungated](https://doi.org/10.1017/S0003055425000048)
+    [Appendix](/files/train_wrecks_appendix.pdf)
+    {{< /links >}}
+
+  Styling lives in static/css/custom.css under ".paper-links".
+*/}}
+<div class="paper-links">{{ .Inner | markdownify }}</div>

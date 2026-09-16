@@ -43,7 +43,7 @@ Under review.
 
 ### Who Pays for the Church? Religious Clientelism and Broker Compensation in Post-War Italy
 
-Revise & resubmit, *American Journal of Political Science*. With Massimo Troncone.
+Conditionally accepted, *American Journal of Political Science*. With Massimo Troncone.
 
 {{< links >}}
 [Working paper](https://doi.org/10.31219/osf.io/nsyc3)

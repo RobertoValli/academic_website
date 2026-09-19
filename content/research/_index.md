@@ -3,6 +3,7 @@ header:
   caption: ""
   image: ""
 title: "Research"
+aliases: ["/project/"]  # the former Dissertation page
 view: 0
 font_size: "xs"
 ---

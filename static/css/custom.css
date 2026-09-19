@@ -240,21 +240,3 @@ body:has(a.nav-link.active[href="/talk/"]) .article-style ul li strong {
   margin-left: 0.35rem !important;
   margin-right: 0.35rem !important;
 }
-
-/* Dissertation page (/project/): smaller title and tighter subtitle-to-figure spacing. */
-body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 h1[itemprop="name"] {
-  font-size: 2rem !important;
-  line-height: 1.2 !important;
-}
-
-body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 {
-  padding-bottom: 0.2rem !important;
-}
-
-body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 .page-subtitle {
-  margin-bottom: 0.2rem !important;
-}
-
-body:has(a.nav-link.active[href="/project/"]) .universal-wrapper.py-3 + .universal-wrapper .article-style > p:first-child {
-  margin-top: 0 !important;
-}

@@ -62,9 +62,7 @@ user_groups:
 
 I am a political scientist studying the political economy of identity, conflict, and religion. 
 
-My research examines how institutions, borders, and political incentives shape ethnolinguistic behavior, political violence, and religious politics. Methodologically, I combine spatially explicit historical and contemporary data with computational methods and rigorous research designs.
-
-My [dissertation](/project) analyzes how border change shaped ethnolinguistic behavior of book authors in Europe (1816-1938). My work has been published in the *American Political Science Review*.
+My research examines how institutions, borders, and political incentives shape ethnolinguistic behavior, political violence, and religious politics. Methodologically, I combine spatially explicit historical and contemporary data with computational methods and rigorous research designs. My work has been published in the *American Political Science Review*.
 
 I received my PhD in Political Science from ETH Zurich in 2024, then worked as a Postdoctoral Research Associate at Princeton University. I have also been a visiting researcher at the University of Konstanz (2025 & 2026) and UC Berkeley (2022).
 

@@ -19,11 +19,6 @@
   weight = 40
 
 [[main]]
-  name = "Dissertation"
-  url = "project/"
-  weight = 50
-
-[[main]]
   name = "Presentations"
   url = "talk/"
   weight = 60

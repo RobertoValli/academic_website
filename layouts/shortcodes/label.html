@@ -1,0 +1,15 @@
+{{/*
+  Marks where a statement on the AI guide (/ai/) comes from, so readers can
+  tell institutional rules from advice.
+
+  Usage: {{< label rule >}}   -> "EUI rule"       (cite the section)
+         {{< label check >}}  -> "Check locally"  (programme, supervisor, publisher, funder)
+         {{< label advice >}} -> "Recommendation" (my own advice)
+
+  Styling lives in static/css/custom.css under ".qa-label".
+*/}}
+{{- $kind := .Get 0 -}}
+{{- $text := index (dict "rule" "EUI rule" "check" "Check locally" "advice" "Recommendation") $kind -}}
+{{- if not $text }}{{ errorf "label shortcode: unknown kind %q (use rule, check or advice): %s" $kind .Position }}{{ end -}}
+<span class="qa-label qa-label--{{ $kind }}">{{ $text }}</span>
+{{- /* no trailing newline, so the chip sits inline with the text after it */ -}}

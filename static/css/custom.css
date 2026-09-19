@@ -1,5 +1,6 @@
 /* =========================================================================
    Content pages: /research/, /courses/ (Teaching), /talk/ (Presentations)
+   -- and /ai/ (AI guide), which reuses the tokens and section labels only
 
    These three share the same shape -- quiet section labels, entries with a
    title and a byline, and action links -- so they share one set of rules.
@@ -10,7 +11,8 @@
 
 body:has(a.nav-link.active[href="/research/"]),
 body:has(a.nav-link.active[href="/courses/"]),
-body:has(a.nav-link.active[href="/talk/"]) {
+body:has(a.nav-link.active[href="/talk/"]),
+body:has(a.nav-link.active[href="/ai/"]) {
   --rs-title:      #111144;  /* navy sampled from the site logo */
   --rs-meta:       #55556b;
   --rs-label:      #6b6b80;
@@ -27,7 +29,8 @@ body:has(a.nav-link.active[href="/talk/"]) {
 
 body.dark:has(a.nav-link.active[href="/research/"]),
 body.dark:has(a.nav-link.active[href="/talk/"]),
-body.dark:has(a.nav-link.active[href="/courses/"]) {
+body.dark:has(a.nav-link.active[href="/courses/"]),
+body.dark:has(a.nav-link.active[href="/ai/"]) {
   --rs-title:      #e8e8f5;
   --rs-meta:       #a8a8c2;
   --rs-label:      #9898b4;
@@ -44,7 +47,8 @@ body.dark:has(a.nav-link.active[href="/courses/"]) {
    so they organise the page without competing with the paper titles. */
 body:has(a.nav-link.active[href="/research/"]) .article-style h2 ,
 body:has(a.nav-link.active[href="/courses/"]) .article-style h2 ,
-body:has(a.nav-link.active[href="/talk/"]) .article-style h2 {
+body:has(a.nav-link.active[href="/talk/"]) .article-style h2 ,
+body:has(a.nav-link.active[href="/ai/"]) .article-style h2 {
   font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
@@ -229,6 +233,170 @@ body:has(a.nav-link.active[href="/courses/"]) .article-style ul li strong ,
 body:has(a.nav-link.active[href="/talk/"]) .article-style ul li strong {
   color: var(--rs-title, #111144);
   font-weight: 700;
+}
+
+/* =========================================================================
+   AI guide (/ai/)
+
+   Shares the colour tokens and quiet section labels above. Everything else
+   is its own: the EUI logo, collapsible Q&A entries (layouts/shortcodes/
+   qa.html), source labels (layouts/shortcodes/label.html) and the
+   expand-all button added by static/js/qa.js. These classes only exist on
+   this page, so they need no nav-item scoping.
+   ========================================================================= */
+
+/* EUI logo above the page title (layouts/section/ai.html). In dark mode it
+   switches to the all-white version, as the navy letters vanish on the
+   dark background. */
+.ai-eui-logo {
+  display: inline-block;
+  margin-top: 2rem;
+}
+.ai-eui-logo img {
+  display: block;
+  height: 54px;
+  width: auto;
+}
+body.dark .ai-eui-logo img {
+  filter: brightness(0) invert(1);
+}
+@media (max-width: 575px) {
+  .ai-eui-logo { margin-top: 1.25rem; }
+  .ai-eui-logo img { height: 44px; }
+}
+
+.qa {
+  border-bottom: 1px solid var(--rs-rule, #e6e6ee);
+}
+/* Fixed indents, so an answer always sits further in than its question,
+   on every screen width and in every browser:
+     chevron | question text starts at --qa-indent
+             | answer rule at --qa-indent, answer text --qa-answer-pad further in */
+.qa {
+  --qa-indent: 1.6rem;
+  --qa-answer-pad: 1.2rem;
+}
+@media (max-width: 575px) {
+  .qa {
+    --qa-indent: 1.4rem;
+    --qa-answer-pad: 1rem;
+  }
+}
+.qa > summary {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  list-style: none;          /* replaced by the chevron below */
+  padding: 1.05rem 0 1.05rem var(--qa-indent);
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--rs-title, #111144);
+}
+@media (max-width: 575px) {
+  .qa > summary { font-size: 1.1rem; }
+}
+.qa > summary::-webkit-details-marker {
+  display: none;
+}
+.qa > summary::before {
+  content: "";
+  position: absolute;
+  left: 0.15rem;
+  top: calc(1.05rem + 0.44em);   /* centred on the first line of the question */
+  width: 0.42em;
+  height: 0.42em;
+  border-right: 2px solid #fc6f5c;
+  border-bottom: 2px solid #fc6f5c;
+  transform: rotate(-45deg);
+  transition: transform .15s ease;
+}
+.qa[open] > summary::before {
+  transform: rotate(45deg);
+}
+.qa > summary:hover .qa-q {
+  color: #fc6f5c;
+}
+.qa > summary:focus-visible {
+  outline: 2px solid #fc6f5c;
+  outline-offset: 2px;
+}
+
+.qa[open] > summary {
+  padding-bottom: 0.55rem;      /* keep the answer close to its question */
+}
+
+/* Answer: indented under the question text, with a thin rule down its left
+   edge (the same device as the abstracts on /research/), and a step smaller
+   than the question so it reads as subordinate to it. */
+.qa-body {
+  margin: 0 0 1.5rem var(--qa-indent);   /* rule sits under the question text */
+  padding: 0.1rem 0 0.1rem var(--qa-answer-pad);
+  border-left: 2px solid var(--rs-rule, #e6e6ee);
+  font-size: 0.93rem;
+  line-height: 1.65;
+}
+.qa-body p {
+  margin-bottom: 0.85rem;
+}
+.qa-body strong {
+  font-weight: 600;
+}
+.qa-body > :last-child {
+  margin-bottom: 0;
+}
+.qa-body ul,
+.qa-body ol {
+  padding-left: 1.3rem;
+}
+.qa-body li + li {
+  margin-top: 0.45rem;
+}
+
+/* Source labels: EUI rule / Check locally / Recommendation.
+   Text-on-fill contrast is AA or better in both themes. */
+.qa-label {
+  display: inline-block;
+  margin-right: 0.35rem;
+  padding: 0.1rem 0.45rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.35;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  vertical-align: 0.1em;
+  border: 1px solid;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.qa-label--rule   { color: #111144; background: #e8e8f5; border-color: #c9c9e0; }  /* 14:1 */
+.qa-label--check  { color: #7a4a00; background: #fff4e0; border-color: #f0d3a0; }  /* 6.9:1 */
+.qa-label--advice { color: #a8321f; background: #fff0ed; border-color: #f6b3a6; }  /* 6.0:1 */
+body.dark .qa-label--rule   { color: #e8e8f5; background: #2a2a44; border-color: #44446a; }
+body.dark .qa-label--check  { color: #f5c877; background: #3a2e17; border-color: #6b5327; }  /* 8.5:1 */
+body.dark .qa-label--advice { color: #fc6f5c; background: #3a2320; border-color: #6b4038; }  /* 5.3:1 */
+
+/* Expand/collapse-all button (inserted by static/js/qa.js). */
+.qa-toggle-all {
+  display: block;
+  margin: 1.5rem 0 -1.6rem auto;   /* sits on the first section's rule line */
+  padding: 0.3rem 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--rs-meta, #55556b);
+  background: transparent;
+  border: 1px solid var(--rs-rule, #e6e6ee);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.qa-toggle-all:hover,
+.qa-toggle-all:focus {
+  color: #fc6f5c;
+  border-color: #fc6f5c;
+}
+
+@media print {
+  .qa-toggle-all { display: none; }
 }
 
 /* =========================================================================

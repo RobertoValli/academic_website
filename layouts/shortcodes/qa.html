@@ -1,0 +1,24 @@
+{{/*
+  One collapsible question-and-answer entry, used on the AI guide (/ai/).
+  The id doubles as a deep link to paste into emails: /ai/#sensitive-data
+  opens that entry (see static/js/qa.js). Keep ids stable once the page
+  is public.
+
+  Usage -- the answer is ordinary Markdown, written flush left:
+
+    {{< qa id="sensitive-data" q="Can I upload interview transcripts?" >}}
+    Short answer first, then detail.
+
+    - lists, links and {{< label rule >}} chips all work
+    {{< /qa >}}
+
+  Styling lives in static/css/custom.css under ".qa".
+*/}}
+{{- $id := .Get "id" -}}
+{{- if not $id }}{{ errorf "qa shortcode is missing an id: %s" .Position }}{{ end -}}
+<details class="qa" id="{{ $id }}">
+<summary><span class="qa-q">{{ .Get "q" | markdownify }}</span></summary>
+<div class="qa-body">
+{{ .Inner | .Page.RenderString (dict "display" "block") }}
+</div>
+</details>

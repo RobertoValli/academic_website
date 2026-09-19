@@ -1,1 +1,3 @@
-<link rel="stylesheet" href="/css/custom.css">
+{{/* The ?v= fingerprint changes whenever custom.css changes, so browsers
+     never keep showing an old copy of the stylesheet. */}}
+<link rel="stylesheet" href="/css/custom.css?v={{ substr (readFile "static/css/custom.css" | md5) 0 8 }}">

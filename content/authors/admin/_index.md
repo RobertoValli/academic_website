@@ -67,3 +67,7 @@ My research examines how institutions, borders, and political incentives shape e
 I received my PhD in Political Science from ETH Zurich in 2024, then worked as a Postdoctoral Research Associate at Princeton University. I have also been a visiting researcher at the University of Konstanz (2025 & 2026) and UC Berkeley (2022).
 
 **I am on the academic job market this year.** If you think I could be a strong match for your institution, please feel free to get in touch!
+
+### **For EUI students**
+
+As Part-time Assistant Professor of AI, I offer consultancy on your projects. On [this page](/ai) you can book an appointment and find general information on AI tools for social scientists.

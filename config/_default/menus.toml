@@ -33,6 +33,11 @@
   url = "courses/"
   weight = 65
 
+[[main]]
+  name = "AI Guide"
+  url = "ai/"
+  weight = 67
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"

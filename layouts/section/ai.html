@@ -1,0 +1,23 @@
+{{/*
+  AI guide (/ai/). Same as the theme's _default/list.html -- this section
+  has no child pages to list -- plus the EUI logo above the title.
+  Logo: static/img/logo-eui.svg, the official file from eui.eu.
+  Styling lives in static/css/custom.css under ".ai-eui-logo".
+*/}}
+{{- define "main" -}}
+
+<div class="universal-wrapper">
+  <a class="ai-eui-logo" href="https://www.eui.eu/">
+    <img src="{{ "img/logo-eui.svg" | relURL }}" alt="European University Institute" width="115" height="54">
+  </a>
+</div>
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+</div>
+
+{{- end -}}

@@ -70,4 +70,4 @@ I received my PhD in Political Science from ETH Zurich in 2024, then worked as a
 
 ### **For EUI students**
 
-As Part-time Assistant Professor of AI, I offer consultancy on your projects. On [this page](/ai) you can book an appointment and find general information on AI tools for social scientists.
+As Part-time Assistant Professor of AI, I offer consultancy on your projects. On [this page](https://robertovalli.github.io/eui-ai-resources/) you can book an appointment and find general information on AI tools for social scientists.

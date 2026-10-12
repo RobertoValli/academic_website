@@ -4,6 +4,18 @@ publish = "public"
 [build.environment]
 HUGO_VERSION = "0.83.1"
 
+[[redirects]]
+from = "/ai"
+to = "https://robertovalli.github.io/eui-ai-resources/"
+status = 301
+force = true
+
+[[redirects]]
+from = "/ai/*"
+to = "https://robertovalli.github.io/eui-ai-resources/"
+status = 301
+force = true
+
 [context]
 [context.branch-deploy]
 command = "hugo -F -b $DEPLOY_PRIME_URL"
